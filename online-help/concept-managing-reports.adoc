@@ -1,0 +1,22 @@
+---
+permalink: online-help/concept-managing-reports.html 
+sidebar: sidebar 
+keywords:  
+summary: 'Active IQ Unified Manager vous permet de créer et de gérer des rapports directement depuis l"interface utilisateur Unified Manager. Ainsi, vous pouvez afficher des informations sur les relations entre l"état, la capacité, les performances et la protection des objets de stockage dans les clusters. La consultation de ces informations peut vous aider à identifier les problèmes potentiels avant qu"ils ne surviennent.' 
+---
+= Gestion des rapports
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Active IQ Unified Manager vous permet de créer et de gérer des rapports directement depuis l'interface utilisateur Unified Manager. Ainsi, vous pouvez afficher des informations sur les relations entre l'état, la capacité, les performances et la protection des objets de stockage dans les clusters. La consultation de ces informations peut vous aider à identifier les problèmes potentiels avant qu'ils ne surviennent.
+
+Vous pouvez télécharger des rapports sous forme de valeurs séparées par des virgules (.csv), Microsoft Excel (.xlsx) ou des fichiers PDF. Vous pouvez également planifier l'envoi d'un rapport par e-mail à un groupe de destinataires. Les rapports sont envoyés sous forme de pièces jointes.
+
+Outre la génération de rapports depuis l'interface utilisateur, vous pouvez extraire les données de santé et de performances à partir d'Unified Manager en utilisant les méthodes suivantes :
+
+* Utilisation des outils ODBC (Open Database Connectivity) et ODBC pour accéder directement à la base de données pour les informations de cluster
+* Exécution d'API REST Unified Manager pour renvoyer les informations que vous souhaitez consulter
+

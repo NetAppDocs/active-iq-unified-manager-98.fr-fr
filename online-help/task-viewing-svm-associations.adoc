@@ -1,0 +1,30 @@
+---
+permalink: online-help/task-viewing-svm-associations.html 
+sidebar: sidebar 
+keywords:  
+summary: 'Vous pouvez utiliser la page Storage VM associations pour afficher les associations SVM existantes et leurs propriétés, et déterminer si d"autres associations SVM sont requises.' 
+---
+= Affichage des associations de SVM
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez utiliser la page Storage VM associations pour afficher les associations SVM existantes et leurs propriétés, et déterminer si d'autres associations SVM sont requises.
+
+
+
+== Avant de commencer
+
+Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
+
+
+
+== Étapes
+
+. Dans le volet de navigation de gauche, cliquez sur *protection* > *associations SVM*.
++
+La liste des associations de SVM et leurs propriétés est affichée.
+
+

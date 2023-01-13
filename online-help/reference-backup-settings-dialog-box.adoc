@@ -1,0 +1,66 @@
+---
+permalink: online-help/reference-backup-settings-dialog-box.html 
+sidebar: sidebar 
+keywords:  
+summary: 'Définissez le planning de sauvegarde, le nombre de rétention et, lors de l"utilisation de la méthode de sauvegarde de vidage de la base de données MySQL, le chemin de sauvegarde pour une instance Unified Manager sélectionnée.' 
+---
+= Boîte de dialogue Paramètres de sauvegarde
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Définissez le planning de sauvegarde, le nombre de rétention et, lors de l'utilisation de la méthode de sauvegarde de vidage de la base de données MySQL, le chemin de sauvegarde pour une instance Unified Manager sélectionnée.
+
+Vous pouvez modifier les paramètres de sauvegarde suivants de la base de données :
+
+* *Chemin*
++
+Lorsque vous utilisez la méthode de sauvegarde de vidage de la base de données MySQL, ce champ indique le chemin d'accès à l'emplacement où vous stockez les fichiers de sauvegarde. Cet emplacement indique le cluster, la machine virtuelle de stockage et le volume sur lequel la sauvegarde est stockée.
+
++
+Le tableau suivant indique le format du chemin de sauvegarde et les emplacements par défaut pour différents systèmes d'exploitation :
+
++
+|===
+| Système d'exploitation hôte | Format du chemin de sauvegarde 
+
+
+ a| 
+Appliance virtuelle
+ a| 
+`/opt/netapp/data/ocum-backup`
+
+
+
+ a| 
+Red Hat Enterprise Linux ou CentOS Linux
+ a| 
+`/data/ocum-backup`
+
+
+
+ a| 
+Microsoft Windows
+ a| 
+`C:\ProgramData\NetApp\OnCommandAppData\ocum\backup\`
+
+|===
+* *Nombre de rétention*
++
+Spécifie le nombre maximal de sauvegardes à conserver par Unified Manager. La valeur par défaut est 10.
+
+* *Quotidien planifié*
++
+Spécifie le planning de sauvegarde quotidien avec l'heure.
+
+* *Hebdomadaire planifié*
++
+Spécifie le programme de sauvegarde hebdomadaire avec le jour et l'heure.
+
+* *Aucun*
++
+Spécifie qu'aucune sauvegarde ne sera créée.
+
+
