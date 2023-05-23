@@ -1,6 +1,6 @@
 ---
 section: health-checker
-title: Contrôlez et gérez l'état du cluster
+title: 32d8b1bb1bdc5067bfbde495253b3469
 entries:
 - title: Présentation de la surveillance de l'état de santé Active IQ Unified Manager
   url: "/health-checker/concept-introduction-to-unified-manager-health-monitoring.html"
@@ -45,14 +45,13 @@ entries:
     - title: Exécution de suggestions d'actions correctives pour un volume complet
       url: "/health-checker/task-performing-suggested-remedial-actions-for-a-full-volume.html"
   - title: Gestion des seuils de santé
-    pdf-filename: Gestion des seuils de santé (intégrité du cluster)
+    pdf-filename: 0cdc2e43fd617d44b61e3c28d05ef9e7
     url: "/health-checker/concept-managing-health-thresholds.html"
     entries:
     - title: Quels sont les seuils d'état de santé de la capacité de stockage
       url: "/health-checker/concept-what-storage-capacity-health-thresholds-are.html"
     - title: Configuration des paramètres de seuil de santé global
-      pdf-filename: Configuration des paramètres de seuil de santé global (intégrité
-        du cluster)
+      pdf-filename: a4d86585f88de3caa783eefc33f81448
       url: "/health-checker/task-configuring-global-health-threshold-settings.html"
       entries:
       - title: Configuration des valeurs des seuils de santé globaux des agrégats
@@ -71,12 +70,11 @@ entries:
     - title: Modification des paramètres de seuil de santé des qtrees individuels
       url: "/health-checker/task-editing-individual-qtree-health-threshold-settings.html"
   - title: Gestion des objectifs de sécurité des clusters
-    pdf-filename: Gestion des objectifs de sécurité des clusters (intégrité du cluster)
+    pdf-filename: d399cb65a45975e7bdfbe00c026f9e54
     url: "/health-checker/concept-managing-cluster-security-objectives.html"
     entries:
     - title: Quels sont les critères de sécurité évalués
-      pdf-filename: Quels sont les critères de sécurité évalués (intégrité du cluster)
-        ?
+      pdf-filename: 595ab232cf3a33e7d9061971978c8478
       url: "/health-checker/concept-what-security-criteria-is-being-evaluated.html"
       entries:
       - title: Catégories de conformité des clusters
@@ -108,15 +106,13 @@ entries:
     - title: Événements de sécurité
       url: "/health-checker/reference-security-events.html"
   - title: La gestion des opérations de sauvegarde et de restauration
-    pdf-filename: Gestion des opérations de sauvegarde et de restauration (intégrité
-      du cluster)
+    pdf-filename: 99f7fc554597facf78ccd7bebb349a82
     url: "/health-checker/concept-managing-backup-and-restore-operations.html"
     entries:
     - title: Processus de sauvegarde et de restauration de l'appliance virtuelle
       url: "/health-checker/concept-backup-and-restore-on-virtual-appliance.html"
     - title: Sauvegarde et restauration à l'aide d'un vidage de base de données MySQL
-      pdf-filename: Sauvegarde et restauration à l'aide d'un dump de base de données
-        MySQL (cluster Health)
+      pdf-filename: 3b1058ff08792a3433d6a10b9fb8b6fe
       url: "/health-checker/concept-backup-and-restore-using-a-mysql-database-dump.html"
       entries:
       - title: Configuration de la destination et de la planification pour les sauvegardes
@@ -130,8 +126,7 @@ entries:
       - title: Restauration d'une sauvegarde de base de données MySQL sous Windows
         url: "/health-checker/task-restoring-a-mysql-database-backup-on-windows.html"
     - title: Sauvegarde et restauration à l'aide des copies NetApp snapshots
-      pdf-filename: Sauvegarde et restauration à l'aide de snapshots NetApp (santé
-        du cluster)
+      pdf-filename: 534c8d4c808923383712e17e50530568
       url: "/health-checker/concept-backup-and-restore-using-netapp-snapshots.html"
       entries:
       - title: Création du volume où les sauvegardes sont stockées
@@ -145,7 +140,7 @@ entries:
     - title: Migration d'une appliance virtuelle Unified Manager vers un système Linux
       url: "/health-checker/task-migrating-a-unified-manager-virtual-appliance-to-a-rhel-or-centos-system.html"
   - title: Gestion des scripts
-    pdf-filename: Gestion des scripts (intégrité du cluster)
+    pdf-filename: 41373b97896fa2cbe5f9c98d158879dc
     url: "/health-checker/concept-managing-scripts.html"
     entries:
     - title: Fonctionnement des scripts avec les alertes
@@ -157,11 +152,11 @@ entries:
     - title: Exécution du script de test
       url: "/health-checker/task-testing-script-execution.html"
   - title: Gestion et suivi des groupes
-    pdf-filename: Gestion et contrôle des groupes (santé du cluster)
+    pdf-filename: 8cb3de1dd32fe03b6b18b81a93da83e8
     url: "/health-checker/concept-managing-and-monitoring-groups.html"
     entries:
     - title: Présentation des groupes
-      pdf-filename: Présentation des groupes (santé du cluster)
+      pdf-filename: ed4a47a0df5e1dccb40840219fa50571
       url: "/health-checker/concept-understanding-groups.html"
       entries:
       - title: Qu'est-ce qu'un groupe
@@ -227,8 +222,7 @@ entries:
     - title: Réorganisation des règles d'annotation
       url: "/health-checker/task-reordering-annotation-rules.html"
   - title: Qu'est-ce qu'une fenêtre de maintenance Unified Manager
-    pdf-filename: Qu'est-ce qu'une fenêtre de maintenance Unified Manager (cluster
-      Health)
+    pdf-filename: 458c6c03d066ca184930dd208d270f0f
     url: "/health-checker/concept-what-a-um-maintenance-window-is.html"
     entries:
     - title: Planification d'une fenêtre de maintenance pour désactiver les notifications
@@ -239,7 +233,7 @@ entries:
     - title: Affichage des événements qui se sont produits lors d'une fenêtre de maintenance
       url: "/health-checker/task-viewing-events-that-occurred-during-a-maintenance-window.html"
   - title: Gestion des paramètres d'authentification SAML
-    pdf-filename: Gestion des paramètres d'authentification SAML (intégrité du cluster)
+    pdf-filename: b6a37febbfcd299253addfaef17d14d2
     url: "/health-checker/concept-managing-saml-authentication-settings-um.html"
     entries:
     - title: Exigences du fournisseur d'identités
@@ -279,7 +273,7 @@ entries:
     - title: Confirmation et résolution des événements
       url: "/health-checker/task-acknowledging-and-resolving-events.html"
     - title: Page de détails de l'événement
-      pdf-filename: Page des détails de l'événement (cluster Health)
+      pdf-filename: b18762187a76685e14050770c534b8bf
       url: "/health-checker/reference-event-details-page.html"
       entries:
       - title: La section informations sur les événements s'affiche
