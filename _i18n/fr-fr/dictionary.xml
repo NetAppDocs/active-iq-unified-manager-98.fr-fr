@@ -12776,4 +12776,9 @@
   <block id="77d7ce66941e6a8a53f84f813d2b2bf1" category="sidebar">Gérer le stockage à l'aide des API REST</block>
   <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">Générer des rapports personnalisés</block>
   <block id="5fc23f7e4ef2f5b01f7034e6f2ceb340" category="sidebar">Installation de Unified Manager sur les systèmes VMware vSphere</block>
+  <block id="9fde9515d3a1ede8d6f12a1892c894ec" category="sidebar">Aide en ligne</block>
+  <block id="d667ab1eefcedffdc31f52ebff9d478d" category="sidebar">Présentation de Active IQ Unified Manager (gestion et contrôle)</block>
+  <block id="21287f9310da73025b9619111ce2ce7e" category="sidebar">Quelles sont les options qui s'offrent lorsque je vois <strong></strong><strong></strong> le bouton réparer ou réparer tout</block>
+  <block id="19966a54541b838c85278932c36c8122" category="sidebar">Modification du nom d'hôte Unified Manager (gestion et contrôle)</block>
+  <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">Ajout d'espace disque dans le répertoire de base de données Unified Manager (gestion et contrôle)</block>
 </blocks>

@@ -1,9 +1,9 @@
 ---
 section: online-help
-title: 9fde9515d3a1ede8d6f12a1892c894ec
+title: Aide en ligne
 entries:
 - title: Introduction à Active IQ Unified Manager
-  pdf-filename: d667ab1eefcedffdc31f52ebff9d478d
+  pdf-filename: Présentation de Active IQ Unified Manager (gestion et contrôle)
   url: "/online-help/concept-introduction-to-unified-manager.html"
   entries:
   - title: Présentation de la surveillance de l'état de santé Active IQ Unified Manager
@@ -53,7 +53,8 @@ entries:
   - title: Résolution des problèmes ONTAP directement dans Unified Manager
     url: "/online-help/concept-fixing-ontap-issues-directly-from-unified-manager.html"
     entries:
-    - title: 21287f9310da73025b9619111ce2ce7e
+    - title: Quelles sont les options qui s'offrent lorsque je vois  le bouton réparer
+        ou réparer tout
       url: "/online-help/concept-what-options-do-i-have-when-i-see-the-fix-it-button.html"
     - title: Affichage de l'état des actions de gestion que vous avez choisies pour
         corriger
@@ -1497,7 +1498,7 @@ entries:
   url: "/online-help/concept-troubleshooting.html"
   entries:
   - title: Modification du nom d'hôte Unified Manager
-    pdf-filename: 19966a54541b838c85278932c36c8122
+    pdf-filename: Modification du nom d'hôte Unified Manager (gestion et contrôle)
     url: "/online-help/concept-changing-the-unified-manager-host-name.html"
     entries:
     - title: Modification du nom d'hôte de l'appliance virtuelle Unified Manager
@@ -1505,7 +1506,8 @@ entries:
     - title: Modification du nom d'hôte Unified Manager sur les systèmes Linux
       url: "/online-help/task-changing-the-unified-manager-host-name-on-rhel-or-centos.html"
   - title: Ajout d'espace disque au répertoire de base de données Unified Manager
-    pdf-filename: 433a3de67ad10a966d2b8b61c37210d2
+    pdf-filename: Ajout d'espace disque dans le répertoire de base de données Unified
+      Manager (gestion et contrôle)
     url: "/online-help/concept-adding-disk-space-to-the-unified-manager-database-directory.html"
     entries:
     - title: Ajout d'espace au disque de données de la machine virtuelle VMware
