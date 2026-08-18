@@ -72,6 +72,7 @@ La garantie d'espace est définie par défaut sur Volume.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes :
@@ -85,7 +86,3 @@ Enregistre les paramètres d'efficacité sélectionnés et les applique lorsque 
 Supprime vos sélections et ferme la boîte de dialogue Paramètres de destination avancés.
 
 
-
-*Informations connexes*
-
-https://www.netapp.com/pdf.html?item=/media/19753-tr-3966.pdf["Rapport technique de NetApp 3966 : Guide de déploiement et d'implémentation de la compression des données et de la déduplication NetApp (clustered Data ONTAP)"^]

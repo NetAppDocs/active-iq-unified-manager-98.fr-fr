@@ -19,6 +19,7 @@ Les événements sont générés lorsqu'un seuil est atteint. Vous pouvez prendr
 
 
 
+[[capacity-area]]
 == Surface de capacité
 
 La zone capacité vous permet de définir les conditions de seuil de capacité qtree suivantes.

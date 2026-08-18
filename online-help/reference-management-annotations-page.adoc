@@ -17,6 +17,7 @@ Lorsque vous vous connectez en tant qu'opérateur, vous n'aurez accès qu'en lec
 
 
 
+[[annotations-tab]]
 == Onglet Annotations
 
 L'onglet Annotations vous permet d'afficher, de créer, de modifier ou de supprimer des annotations dans Unified Manager.
@@ -29,6 +30,7 @@ Affiche les noms des annotations prédéfinies et personnalisées. Le nombre de 
 
 
 
+[[summary-area]]
 == Zone de résumé
 
 Vous pouvez afficher les détails suivants de l'annotation sélectionnée :
@@ -49,6 +51,7 @@ Affiche la date de création de l'annotation.
 
 
 
+[[annotationvalues-pairs]]
 == Annotation=valeurs paires
 
 Affiche la liste des paires de valeurs d'annotation et des objets de stockage associés disponibles pour l'annotation sélectionnée.
@@ -73,6 +76,7 @@ Affiche le nombre de volumes annotés avec une paire annotation=valeur particuli
 
 
 
+[[object-associations-via-rules]]
 == Associations d'objets via des règles
 
 Affiche la liste des règles d'annotation et les objets de stockage associés à l'annotation sélectionnée.
@@ -101,6 +105,7 @@ Affiche le nombre d'objets de stockage annotés en fonction de la règle d'annot
 
 
 
+[[manual-object-associations]]
 == Associations d'objets manuelles
 
 Affiche la liste des annotations que vous avez configurées manuellement et associées aux objets de stockage.
@@ -125,6 +130,7 @@ Affiche le nombre de volumes annotés avec une valeur d'annotation manuelle part
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage. Pour les annotations prédéfinies, vous ne pouvez pas ajouter ou supprimer des valeurs.
@@ -149,12 +155,14 @@ Permet de supprimer la valeur d'annotation. Vous ne pouvez supprimer la valeur q
 
 
 
+[[annotation-rules-tab]]
 == Onglet règles d'annotation
 
 L'onglet règles d'annotations affiche les règles d'annotation que vous avez créées pour annoter les objets de stockage. Vous pouvez effectuer des tâches telles que l'ajout, la modification, la suppression ou la réorganisation d'une règle d'annotation. Vous pouvez également afficher le nombre d'objets de stockage correspondant à la règle d'annotation.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -179,6 +187,7 @@ Affiche la boîte de dialogue Réordonner la règle d'annotation qui permet de r
 
 
 
+[[list-view]]
 == Vue liste
 
 La vue liste affiche, au format tabulaire, les règles d'annotation que vous avez créées dans le serveur Unified Manager. Vous pouvez utiliser les filtres de colonne pour personnaliser les données affichées. La vue de liste de l'onglet règles d'annotation et la vue de liste de la section règles associées de l'onglet Annotation contient les colonnes suivantes :

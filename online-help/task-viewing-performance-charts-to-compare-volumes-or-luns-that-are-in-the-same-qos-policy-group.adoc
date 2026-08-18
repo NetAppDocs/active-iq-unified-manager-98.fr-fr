@@ -15,12 +15,14 @@ Vous pouvez afficher les volumes et les LUN qui se trouvent dans les mêmes grou
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les étapes de comparaison des performances des volumes d'un même groupe de règles de QoS sont présentées ci-dessous. Les étapes permettant d'afficher ces informations concernant une LUN sont similaires.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

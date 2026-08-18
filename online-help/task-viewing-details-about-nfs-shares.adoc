@@ -15,6 +15,7 @@ Vous pouvez afficher des informations détaillées sur tous les partages NFS, no
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * La licence NFS doit être activée sur le cluster.
@@ -24,6 +25,7 @@ Vous pouvez afficher des informations détaillées sur tous les partages NFS, no
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, suivez les étapes ci-dessous selon que vous souhaitez afficher tous les partages NFS ou uniquement les partages NFS pour un SVM particulier.

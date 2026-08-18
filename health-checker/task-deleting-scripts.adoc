@@ -15,6 +15,7 @@ Vous pouvez supprimer un script d'Unified Manager lorsque le script n'est plus n
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez supprimer un script d'Unified Manager lorsque le script n'est plus n
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *scripts*.

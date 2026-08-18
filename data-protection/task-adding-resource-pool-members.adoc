@@ -15,18 +15,21 @@ Un pool de ressources est constitué d'un certain nombre d'agrégats membres. Vo
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous ne pouvez pas ajouter plus de 200 agrégats à un pool de ressources à la fois. Les agrégats affichés dans la boîte de dialogue Aggregates n'appartiennent à aucun autre pool de ressources.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *protection* > *pools de ressources*.

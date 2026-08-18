@@ -15,6 +15,7 @@ Vous pouvez utiliser la page de détails volume/intégrité pour créer une rela
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez utiliser la page de détails volume/intégrité pour créer une rela
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le menu *Protect* ne s'affiche pas dans les cas suivants :
@@ -35,6 +37,7 @@ Vous pouvez effectuer jusqu'à 10 tâches de protection en même temps, sans aff
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *protection* de la page de détails *Volume / Santé*, cliquez avec le bouton droit de la souris dans la vue topologique sur le nom d'un volume que vous souhaitez protéger.
@@ -62,6 +65,7 @@ La nouvelle relation s'affiche dans la vue topologique de la page Volume / Healt
 
 
 
+[[results]]
 == Résultats
 
 En fonction du SVM de destination que vous avez spécifié lors de la configuration ou des options que vous avez activées dans vos paramètres avancés, la relation SnapMirror résultante peut être l'une des variantes suivantes :

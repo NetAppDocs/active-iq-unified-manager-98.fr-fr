@@ -15,18 +15,21 @@ Vous pouvez supprimer des règles d'annotation de Active IQ Unified Manager lors
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Lorsque vous supprimez une règle d'annotation, l'annotation est dissociée et supprimée des objets de stockage.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Annotations*.

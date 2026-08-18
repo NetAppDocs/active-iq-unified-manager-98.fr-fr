@@ -15,6 +15,7 @@ Unified Manager inclut un service qui surveille les problèmes de ressources sur
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les événements de Management Station indiquent un problème avec le système hôte sur lequel Unified Manager est installé. Les problèmes liés à la station de gestion incluent l'espace disque insuffisant sur le système hôte, Unified Manager manquant d'un cycle régulier de collecte de données et l'absence d'achèvement, ou fin tardive, de l'analyse statistique car le prochain sondage de collecte a été lancé.
@@ -23,6 +24,7 @@ Contrairement à tous les autres messages d'événement Unified Manager, ces mes
 
 
 
+[[steps]]
 == Étapes
 
 . Pour afficher les informations d'événement de station de gestion, effectuez les opérations suivantes :

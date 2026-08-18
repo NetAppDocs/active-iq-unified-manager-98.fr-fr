@@ -15,6 +15,7 @@ Vous pouvez créer des LUN qui prennent en charge les protocoles CIFS/SMB et NFS
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * La machine virtuelle de stockage doit disposer d'espace pour le provisionnement de la LUN.
@@ -24,6 +25,7 @@ Vous pouvez créer des LUN qui prennent en charge les protocoles CIFS/SMB et NFS
 
 
 
+[[steps]]
 == Étapes
 
 . Sur la page *Provision Workload*, ajoutez le nom de la charge de travail à créer, puis sélectionnez le cluster dans la liste disponible.

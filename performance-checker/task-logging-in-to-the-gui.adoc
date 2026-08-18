@@ -15,6 +15,7 @@ Vous pouvez vous connecter à l'interface utilisateur de Unified Manager à l'ai
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Le navigateur Web doit respecter la configuration minimale requise.
@@ -26,12 +27,14 @@ Consultez la matrice d'interopérabilité à l'adresse http://mysupport.netapp.c
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous êtes automatiquement déconnecté de la session après 1 heure d'inactivité. Ce délai peut être configuré sous *général* > *Paramètres de fonction*.
 
 
 
+[[steps]]
 == Étapes
 
 . Entrez l'URL dans votre navigateur Web, où `URL` L'adresse IP ou le nom de domaine complet (FQDN) du serveur Unified Manager :

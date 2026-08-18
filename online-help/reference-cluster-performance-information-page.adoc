@@ -15,6 +15,7 @@ Utilisez la page informations sur les performances/clusters pour afficher la lis
 
 
 
+[[cluster-attributes]]
 == Attributs du cluster
 
 * *Interface de réseau de gestion*

@@ -15,18 +15,21 @@ Vous pouvez modifier un pool de ressources existant lorsque vous souhaitez modif
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le bouton *Modifier* n'est activé que lorsqu'un pool de ressources est sélectionné. Si plusieurs pools de ressources sont sélectionnés, le bouton *Edit* est désactivé.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *protection* > *pools de ressources*.

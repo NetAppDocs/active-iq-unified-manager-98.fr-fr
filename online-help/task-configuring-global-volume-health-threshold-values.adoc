@@ -15,12 +15,14 @@ Vous pouvez configurer les valeurs de seuil de santé global pour tous les volum
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La plupart des options de seuil ont des valeurs par défaut pour une meilleure surveillance. Cependant, vous pouvez modifier les valeurs en fonction des besoins de votre environnement.
@@ -34,6 +36,7 @@ La valeur par défaut de 1000 copies Snapshot s'applique uniquement aux volumes 
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *seuils d'événements* > *Volume*.

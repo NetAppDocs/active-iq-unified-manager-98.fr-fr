@@ -15,18 +15,21 @@ Pour tous les événements que vous avez configurés pour envoyer des alertes, u
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Par défaut, les alertes ne sont pas envoyées pour les événements lorsqu'elles passent à l'état résolu et Obsolète.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Alert Setup*.

@@ -15,6 +15,7 @@ Les événements des serveurs virtuels de stockage vous fournissent des informat
 
 
 
+[[impact-area-availability]]
 == Domaine d'impact : disponibilité
 
 Un astérisque (*) identifie les événements EMS qui ont été convertis en événements Unified Manager.
@@ -255,6 +256,7 @@ Erreur
 |===
 
 
+[[impact-area-configuration]]
 == Zone d'impact : configuration
 
 |===
@@ -331,6 +333,7 @@ Informations
 |===
 
 
+[[impact-area-performance]]
 == Zone d'impact : performances
 
 |===
@@ -404,6 +407,7 @@ Avertissement
 |===
 
 
+[[impact-area-security]]
 == Zone d'impact : sécurité
 
 |===

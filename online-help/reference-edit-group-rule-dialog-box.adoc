@@ -35,6 +35,7 @@ Affiche la liste des conditions pour un groupe sélectionné. Vous pouvez modifi
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Enregistrer*

@@ -30,6 +30,7 @@ Il existe quatre types de graphiques relatifs aux IOPS :
 
 
 
+[[iops-total-counter-chart]]
 == IOPS - Tableau compteur total
 
 Affiche le nombre d'opérations d'entrée/sortie traitées par seconde.
@@ -38,6 +39,7 @@ Lorsqu'elle est affichée pour un nœud, la sélection « Total » affiche les I
 
 
 
+[[iops-breakdown-counter-chart]]
 == IOPS : tableau des compteurs
 
 Affiche les mêmes données IOPS séparées en lecture, en écriture et en autres IOPS.
@@ -48,12 +50,14 @@ Lorsqu'elle est affichée pour un nœud, la sélection « détail » affiche la 
 
 
 
+[[iops-protocols-counter-chart]]
 == IOPS - diagramme compteur protocoles
 
 Affiche les mêmes données IOPS, mais pour les SVM, les données de performance sont séparées en composants individuels pour le trafic de protocole CIFS, NFS, FCP, NVMe et iSCSI.
 
 
 
+[[iopstb-total-counter-chart]]
 == IOPS/To : tableau compteur total
 
 Affiche le nombre d'opérations d'entrée/sortie traitées par seconde en fonction de l'espace logique total utilisé par le volume, en téraoctets. Également appelé densité des E/S, ce compteur mesure le niveau de performances qu'une quantité donnée de capacité de stockage peut fournir.
@@ -62,6 +66,7 @@ Cette option de graphique est disponible uniquement lorsque l'objet sélectionn�
 
 
 
+[[zoom-view-button]]
 == *Bouton Zoom View*
 
 Affiche une vue agrandie des données du compteur.

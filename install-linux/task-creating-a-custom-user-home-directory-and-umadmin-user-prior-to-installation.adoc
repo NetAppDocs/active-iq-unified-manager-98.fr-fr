@@ -15,6 +15,7 @@ Vous pouvez créer un répertoire d'accueil personnalisé et définir votre prop
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Le système doit répondre aux exigences décrites dans xref:concept-virtual-infrastructure-or-hardware-system-requirements.adoc[Configuration matérielle requise].
@@ -23,6 +24,7 @@ Vous pouvez créer un répertoire d'accueil personnalisé et définir votre prop
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 L'installation par défaut de Unified Manager effectue les tâches suivantes :
@@ -43,6 +45,7 @@ Les stratégies de sécurité de votre environnement ne doivent pas limiter les 
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous en tant qu'utilisateur root au serveur.
@@ -56,6 +59,7 @@ Le système vous invite à entrer une nouvelle chaîne de mot de passe pour l'ut
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Après avoir installé Unified Manager, vous devez spécifier le shell de connexion utilisateur umadmin.

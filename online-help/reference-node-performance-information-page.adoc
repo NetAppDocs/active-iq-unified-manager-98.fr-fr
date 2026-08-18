@@ -15,6 +15,7 @@ Utilisez la page informations sur le nœud/performances pour afficher la liste d
 
 
 
+[[node-attributes]]
 == Attributs de nœud
 
 * *Adresse IP*
@@ -81,6 +82,7 @@ Si disponible, la mémoire totale disponible sur le contrôleur.
 
 
 
+[[flash-devices]]
 == Périphériques Flash
 
 [NOTE]

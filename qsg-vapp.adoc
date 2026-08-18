@@ -10,6 +10,7 @@ summary: Guide de démarrage rapide pour Unified Manager sur une plateforme VMwa
 
 
 
+[[system-requirements]]
 == Configuration minimale requise
 
 * Système d'exploitation : VMware ESXi 6.5, 6.7 et 7.0
@@ -22,10 +23,12 @@ Pour plus de détails sur la configuration requise, reportez-vous à la section 
 
 
 
+[[installing-active-iq-unified-manager]]
 == Installation de Active IQ Unified Manager
 
 
 
+[[download-the-installer]]
 === Téléchargez le programme d'installation
 
 . Téléchargez le `ActiveIQUnifiedManager-<version>.ova` package d'installation.
@@ -34,6 +37,7 @@ Pour plus de détails sur la configuration requise, reportez-vous à la section 
 
 
 
+[[install-unified-manager]]
 === Installez Unified Manager
 
 . Dans vSphere client, cliquez sur *fichier > déployer le modèle OVF*.

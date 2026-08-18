@@ -23,6 +23,7 @@ Vous pouvez définir des seuils d'intégrité des agrégats pour : capacité, cr
 
 
 
+[[capacity-area]]
 == Surface de capacité
 
 L'espace capacité vous permet de définir les conditions de seuil de capacité globale suivantes. Notez que lorsque la croissance automatique est activée sur les volumes qui résident sur l'agrégat, les seuils de capacité de l'agrégat sont considérés comme enfreintes pour la taille maximale du volume définie par la croissance automatique, et non pas pour la taille du volume initial.
@@ -87,6 +88,7 @@ Spécifie le nombre de jours restants avant que l'agrégat n'atteigne sa pleine 
 
 
 
+[[growth-area]]
 == Zone de croissance
 
 La zone de croissance vous permet de définir les conditions seuils suivantes pour la croissance globale :
@@ -122,6 +124,7 @@ Si vous modifiez la sensibilité au taux de croissance des agrégats au niveau d
 
 
 
+[[snapshot-copies-area]]
 == Zone des copies Snapshot
 
 La zone copies Snapshot vous permet de définir les conditions de seuil de réserve Snapshot suivantes :

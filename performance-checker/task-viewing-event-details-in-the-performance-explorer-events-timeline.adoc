@@ -15,6 +15,7 @@ Vous pouvez afficher tous les événements et leurs détails dans le volet Calen
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le volet Event Timeline affiche les événements critiques, d'erreur, d'avertissement et d'information qui se sont produits sur l'objet racine pendant la plage horaire sélectionnée. Chaque gravité d'événement a son propre calendrier. Les événements uniques et multiples sont représentés par un point d'événement sur le calendrier. Vous pouvez positionner votre curseur sur un point d'événement pour afficher les détails de l'événement. Pour augmenter la granularité visuelle de plusieurs événements, vous pouvez réduire la plage de temps. Cela permet de propager plusieurs événements en un seul événement, ce qui vous permet d'afficher et d'étudier chaque événement séparément.
@@ -23,6 +24,7 @@ Chaque point d'événement de performance sur la chronologie des événements s'
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet *Event Timeline*, placez le curseur sur un point d'événement sur une chronologie pour afficher un résumé de l'événement ou des événements à ce point.

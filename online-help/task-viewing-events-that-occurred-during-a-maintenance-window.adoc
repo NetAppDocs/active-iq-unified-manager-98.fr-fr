@@ -15,18 +15,21 @@ Si nécessaire, vous pouvez afficher les événements générés pour tous les o
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Au moins une fenêtre de maintenance doit avoir été effectuée avant que des événements soient disponibles.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les événements qui se sont produits pendant une fenêtre de maintenance n'apparaissent pas par défaut sur la page d'inventaire de gestion des événements.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Evénements*.

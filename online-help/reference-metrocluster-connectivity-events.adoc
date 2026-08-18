@@ -15,6 +15,7 @@ Les événements de connectivité fournissent des informations sur la connectivi
 
 
 
+[[impact-area-availability]]
 == Domaine d'impact : disponibilité
 
 |===

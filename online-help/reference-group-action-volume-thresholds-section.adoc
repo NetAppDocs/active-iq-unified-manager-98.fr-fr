@@ -33,6 +33,7 @@ Les valeurs globales par défaut sont utilisées si les seuils d'intégrité du 
 
 
 
+[[capacity-section]]
 == Section capacité
 
 Vous pouvez définir les conditions des seuils de santé de la capacité de volume suivants :
@@ -74,6 +75,7 @@ Spécifie le pourcentage auquel un volume est considéré comme surengagé :
 
 
 
+[[growth-section]]
 == Section croissance
 
 Vous pouvez définir les conditions de seuil d'intégrité suivantes pour la croissance du volume :
@@ -103,6 +105,7 @@ Une valeur plus faible pour la sensibilité au taux de croissance indique que l'
 
 
 
+[[qtree-quota-section]]
 == Section quota qtree
 
 Vous pouvez définir les conditions de seuil d'intégrité suivantes pour les quotas de volume :
@@ -131,6 +134,7 @@ Spécifie le pourcentage auquel un volume est considéré comme suralloué par d
 
 
 
+[[snapshot-copies-section]]
 == Section copies Snapshot
 
 Vous pouvez définir les conditions de seuil de santé suivantes pour les copies Snapshot dans le volume :
@@ -169,6 +173,7 @@ Spécifie le nombre de copies Snapshot sur un volume qui sont considérées comm
 
 
 
+[[inodes-section]]
 == Section des inodes
 
 Vous pouvez définir les conditions de seuil de santé suivantes pour les inodes :

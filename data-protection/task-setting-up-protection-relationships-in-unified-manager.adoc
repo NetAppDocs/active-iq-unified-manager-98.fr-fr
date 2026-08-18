@@ -15,6 +15,7 @@ Il existe plusieurs étapes à effectuer pour utiliser Unified Manager et OnComm
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -29,6 +30,7 @@ Il existe plusieurs étapes à effectuer pour utiliser Unified Manager et OnComm
 
 
 
+[[steps]]
 == Étapes
 
 . Selon le type de relation de protection que vous souhaitez créer, effectuez l'une des opérations suivantes :

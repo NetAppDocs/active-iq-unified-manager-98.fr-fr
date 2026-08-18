@@ -15,6 +15,7 @@ Vous pouvez ajouter de nouvelles interfaces réseau si vous devez séparer le tr
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir ajouté l'interface réseau à l'appliance virtuelle à l'aide de vSphere.
@@ -23,6 +24,7 @@ L'appliance virtuelle doit être sous tension.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 [NOTE]
@@ -32,6 +34,7 @@ Vous ne pouvez pas effectuer cette opération si Unified Manager est installé s
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans la console vSphere *Menu principal*, sélectionnez *Configuration du système* > *redémarrer le système d'exploitation*.

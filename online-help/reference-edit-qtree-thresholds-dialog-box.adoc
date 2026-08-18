@@ -21,6 +21,7 @@ Vous pouvez configurer les paramètres de seuil de capacité au niveau qtree. Lo
 
 
 
+[[capacity-area]]
 == Surface de capacité
 
 La zone de capacité vous permet de définir les conditions de seuil de capacité qtree suivantes :
@@ -43,6 +44,7 @@ Vous pouvez également utiliser le curseur pour définir la valeur du seuil.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande vous permettent d'effectuer les tâches suivantes pour un qtree sélectionné :

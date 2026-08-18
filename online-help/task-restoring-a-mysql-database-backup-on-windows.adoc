@@ -15,6 +15,7 @@ En cas de perte ou de corruption des données, la fonctionnalité de restauratio
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez disposer des privilèges d'administrateur Windows.
@@ -27,6 +28,7 @@ Il est recommandé de copier le fichier de sauvegarde dans le répertoire par d�
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La fonction de restauration est spécifique à la plate-forme et à la version. Vous ne pouvez restaurer une sauvegarde MySQL Unified Manager que sur la même version de Unified Manager, et une sauvegarde Windows ne peut être restaurée que sur une plate-forme Windows.
@@ -38,6 +40,7 @@ Si les noms de dossier contiennent un espace, vous devez inclure le chemin absol
 ====
 
 
+[[steps]]
 == Étapes
 
 . Si vous effectuez une restauration sur un nouveau serveur, une fois l'installation de Unified Manager terminée, ne lancez pas l'interface utilisateur et ne configurez pas les clusters, les utilisateurs ou les paramètres d'authentification. Le fichier de sauvegarde remplit ces informations lors du processus de restauration.
@@ -59,6 +62,7 @@ Une fois l'opération de restauration terminée, vous pouvez vous connecter à U
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Après la restauration de la sauvegarde, si le serveur OnCommand Workflow Automation ne fonctionne pas, effectuez les opérations suivantes :

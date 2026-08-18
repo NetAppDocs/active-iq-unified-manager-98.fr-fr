@@ -19,6 +19,7 @@ Le bas de la page du graphique affiche des informations sur l'utilisation minima
 
 
 
+[[utilization-total-counter-chart]]
 == Utilisation - Tableau du compteur total
 
 Affiche le pourcentage moyen de la ressource sélectionnée qui est utilisée. Pour les nœuds, cela indique l'utilisation des ressources du nœud (CPU et RAM), pour les agrégats, cela indique l'utilisation des disques de l'agrégat, et pour les ports, cela indique l'utilisation de la bande passante du port.
@@ -27,6 +28,7 @@ Cette option de graphique s'applique lorsque l'objet sélectionné est un nœud,
 
 
 
+[[zoom-view-button]]
 == *Bouton Zoom View*
 
 Affiche une vue agrandie des données du compteur.

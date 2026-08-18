@@ -15,12 +15,14 @@ Pour obtenir de l'aide sur les problèmes de dépannage, vous pouvez envoyer les
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez être connecté en tant qu'utilisateur de maintenance.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *AutoSupport*.

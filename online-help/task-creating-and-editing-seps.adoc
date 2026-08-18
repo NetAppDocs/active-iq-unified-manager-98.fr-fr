@@ -15,6 +15,7 @@ Lorsque les règles d'efficacité du stockage définies par le système ne répo
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications.
@@ -26,6 +27,7 @@ Lorsque les règles d'efficacité du stockage définies par le système ne répo
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous créez et modifiez des politiques personnalisées d'efficacité du stockage à partir de la page règles d'efficacité du stockage en définissant les caractéristiques d'efficacité de stockage requises pour les applications qui accèdent au stockage.
@@ -37,6 +39,7 @@ Vous ne pouvez pas modifier une stratégie d'efficacité du stockage s'il est ac
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche sous *Paramètres*, sélectionnez *stratégies* > *efficacité du stockage*.
@@ -67,6 +70,7 @@ La page permettant d'ajouter ou de modifier une stratégie d'efficacité du stoc
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Vous pouvez appliquer la nouvelle règle d'efficacité du stockage ou la version modifiée aux charges de travail (LUN, partages de fichiers NFS et partages CIFS) à partir de la page des charges de travail ou lors du provisionnement d'un nouveau workload.

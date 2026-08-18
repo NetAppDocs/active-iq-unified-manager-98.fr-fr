@@ -15,6 +15,7 @@ La sélection d'une plage de temps prédéfinie est un moyen rapide et efficace 
 
 
 
+[[steps]]
 == Étapes
 
 . En haut à droite de la page *Performance Explorer*, cliquez sur *Time Range*.

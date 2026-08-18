@@ -15,12 +15,14 @@ Vous pouvez configurer les valeurs des seuils de santé globaux de tous les agr�
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Lorsque vous configurez globalement les options, les valeurs par défaut des objets sont modifiées. Cependant, si les valeurs par défaut ont été modifiées au niveau de l'objet, les valeurs globales ne sont pas modifiées.
@@ -36,6 +38,7 @@ Les valeurs de seuil de santé ne sont pas applicables à l'agrégat racine du n
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *seuils d'événements* > *agrégat*.

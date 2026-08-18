@@ -15,6 +15,7 @@ En cas de perte ou de corruption des données, Unified Manager peut être restau
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez disposer des informations d'identification utilisateur root pour l'hôte Linux sur lequel Unified Manager est installé.
@@ -28,6 +29,7 @@ Il est recommandé de copier le fichier de sauvegarde dans le répertoire par d�
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La fonction de restauration est spécifique à la plate-forme et à la version. La restauration d'une sauvegarde Unified Manager ne peut être effectuée que sur la même version de Unified Manager. Vous pouvez restaurer un fichier de sauvegarde Linux ou un fichier de sauvegarde d'appliance virtuelle sur un système Red Hat Enterprise Linux ou CentOS.
@@ -39,6 +41,7 @@ Si le nom du dossier de sauvegarde contient un espace, vous devez inclure le che
 ====
 
 
+[[steps]]
 == Étapes
 
 . Si vous effectuez une restauration sur un nouveau serveur, une fois l'installation de Unified Manager terminée, ne lancez pas l'interface utilisateur et ne configurez pas les clusters, les utilisateurs ou les paramètres d'authentification. Le fichier de sauvegarde remplit ces informations lors du processus de restauration.
@@ -60,6 +63,7 @@ Une fois l'opération de restauration terminée, vous pouvez vous connecter à U
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Après la restauration de la sauvegarde, si le serveur OnCommand Workflow Automation ne fonctionne pas, effectuez les opérations suivantes :

@@ -15,6 +15,7 @@ Vous pouvez supprimer une copie Snapshot pour économiser de l'espace disque, li
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -25,6 +26,7 @@ Pour supprimer une copie Snapshot occupée ou verrouillée, vous devez avoir lib
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 * Vous ne pouvez pas supprimer la copie Snapshot de base d'un volume parent si un volume FlexClone utilise cette copie Snapshot.
@@ -39,6 +41,7 @@ La copie Snapshot est verrouillée et requise pour la prochaine mise à jour.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

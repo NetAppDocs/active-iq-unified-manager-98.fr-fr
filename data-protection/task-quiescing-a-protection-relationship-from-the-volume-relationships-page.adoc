@@ -15,6 +15,7 @@ summary: 'À partir de la page relations de volume, vous pouvez suspendre une re
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ summary: 'À partir de la page relations de volume, vous pouvez suspendre une re
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 L'action de mise en veille ne s'affiche pas dans les cas suivants :
@@ -34,6 +36,7 @@ L'action de mise en veille ne s'affiche pas dans les cas suivants :
 
 
 
+[[steps]]
 == Étapes
 
 . Pour suspendre les transferts pour une ou plusieurs relations de protection, sélectionnez un ou plusieurs volumes dans la page *relations de volume* et, dans la barre d'outils, cliquez sur *Quiesce*.

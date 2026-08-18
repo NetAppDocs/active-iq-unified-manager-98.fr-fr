@@ -15,6 +15,7 @@ Utilisez *Afficher/Masquer* pour choisir les colonnes que vous souhaitez utilise
 
 
 
+[[steps]]
 == Étapes
 
 . Cliquez sur *Afficher/Masquer* pour ajouter ou supprimer des colonnes.

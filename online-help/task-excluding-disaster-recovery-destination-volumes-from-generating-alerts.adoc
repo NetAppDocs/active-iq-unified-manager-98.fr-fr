@@ -15,12 +15,14 @@ Lors de la configuration des alertes de volume, vous pouvez spécifier une chaî
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez désactiver les alertes relatives aux volumes de destination de reprise sur incident en excluant les volumes qui ont le nom du SVM de destination. Ceci est possible car l'identifiant des événements de volume contient à la fois le nom du SVM et le nom du volume au format « <svm_name>:/<volume_name> ».
@@ -31,6 +33,7 @@ Effectuez les opérations suivantes dans la boîte de dialogue Ajouter une alert
 
 
 
+[[steps]]
 == Étapes
 
 . Cliquez sur *Nom* et entrez un nom et une description pour l'alerte.

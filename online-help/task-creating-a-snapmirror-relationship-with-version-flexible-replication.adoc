@@ -15,6 +15,7 @@ Vous pouvez créer une relation SnapMirror avec la réplication flexible de la v
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -25,12 +26,14 @@ Vous pouvez créer une relation SnapMirror avec la réplication flexible de la v
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 SnapMirror avec la réplication flexible de la version vous permet d'implémenter la protection SnapMirror, même dans des environnements de stockage hétérogènes où tout le stockage n'est pas exécuté sous une version d'ONTAP. Toutefois, les opérations de mise en miroir effectuées sous SnapMirror avec une réplication flexible de la version ne s'exécutent pas aussi rapidement que sous SnapMirror de réplication de blocs traditionnelle.
 
 
 
+[[steps]]
 == Étapes
 
 . Affichez la boîte de dialogue *Configure protection* pour le volume que vous souhaitez protéger.

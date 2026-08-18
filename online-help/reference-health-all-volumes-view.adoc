@@ -23,6 +23,7 @@ Voir xref:reference-volume-health-fields.adoc[Champs de contrôle du volume] pou
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Modifier le seuil*

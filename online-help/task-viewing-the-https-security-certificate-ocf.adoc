@@ -15,18 +15,21 @@ Vous pouvez comparer les détails du certificat HTTPS au certificat récupéré 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 L'affichage du certificat vous permet de vérifier le contenu d'un certificat régénéré ou d'afficher d'autres noms d'URL à partir desquels vous pouvez accéder à Unified Manager.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *certificat HTTPS*.
@@ -37,6 +40,7 @@ Le certificat HTTPS s'affiche en haut de la page
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Si vous avez besoin d'afficher des informations plus détaillées sur le certificat de sécurité par rapport à ce qui s'affiche sur la page certificat HTTPS, vous pouvez afficher le certificat de connexion dans votre navigateur.

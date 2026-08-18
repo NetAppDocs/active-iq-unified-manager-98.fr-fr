@@ -15,6 +15,7 @@ Vous pouvez afficher des informations détaillées d'IOPS pour un SVM à partir 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 En outre, le tableau IOPS - protocoles affiche une comparaison détaillée du trafic d'IOPS pour chaque protocole utilisé sur la SVM. Les protocoles suivants sont disponibles :
@@ -28,6 +29,7 @@ En outre, le tableau IOPS - protocoles affiche une comparaison détaillée du tr
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Performance/SVM Explorer* de votre SVM sélectionné, dans le tableau IOPS, sélectionnez *protocoles* dans le menu déroulant.

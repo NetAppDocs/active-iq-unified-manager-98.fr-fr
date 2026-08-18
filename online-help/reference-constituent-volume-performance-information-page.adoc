@@ -15,6 +15,7 @@ Utilisez la page informations sur le volume/performances de composant pour affic
 
 
 
+[[constituent-volume-attributes]]
 == Attributs des volumes constitutifs
 
 * *Type*

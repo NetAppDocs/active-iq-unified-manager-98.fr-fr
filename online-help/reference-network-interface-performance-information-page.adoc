@@ -15,6 +15,7 @@ Utilisez la page Network interface/Performance information pour afficher la list
 
 
 
+[[network-interface-attributes]]
 == Attributs de l'interface réseau
 
 * *Adresse IP*

@@ -23,6 +23,7 @@ Deux types de graphiques sur la capacité de performance utilisée sont disponib
 
 
 
+[[performance-capacity-used-total-counter-chart]]
 == Performance Capacity Used - graphique du compteur total
 
 Affiche le pourcentage de capacité de performance utilisé par le nœud ou l'agrégat.
@@ -43,12 +44,14 @@ La valeur de la capacité dépasse le seuil d'avertissement et atteint le seuil 
 
 
 
+[[performance-capacity-used-breakdown-counter-chart]]
 == Capacité utilisée – Tableau de compteur de répartition
 
 Affiche le même pourcentage de capacité de performances, séparé en protocoles utilisateur, les processus en arrière-plan du système, ainsi que la quantité de capacité de performances libres.
 
 
 
+[[zoom-view-button]]
 == *Bouton Zoom View*
 
 Affiche une vue agrandie des données du compteur.

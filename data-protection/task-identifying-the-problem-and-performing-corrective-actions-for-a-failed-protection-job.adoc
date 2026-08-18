@@ -15,12 +15,14 @@ Vous examinez le message d'erreur d'échec du travail dans le champ cause de la 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le message d'erreur fourni dans le champ cause de la page Détails de l'événement contient le texte suivant concernant le travail en échec :
@@ -48,6 +50,7 @@ Dans ce scénario, vous pouvez identifier la cause et les actions correctives po
 
 
 
+[[steps]]
 == Étapes
 
 . Vous passez en revue le message d'erreur et déterminez qu'une tâche de copie Snapshot a échoué sur le volume source, ce qui indique qu'il y a probablement un problème avec le volume source.

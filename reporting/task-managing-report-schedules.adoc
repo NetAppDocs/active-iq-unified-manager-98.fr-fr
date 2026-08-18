@@ -15,6 +15,7 @@ Vous pouvez gérer vos planifications de rapports à partir de la page programme
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 [NOTE]
@@ -27,6 +28,7 @@ Vous ne pouvez pas programmer de nouveaux rapports à partir de la page Rapports
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Report Schedules*.

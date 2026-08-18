@@ -15,18 +15,21 @@ Vous pouvez ajouter des valeurs aux annotations, puis associer des objets de sto
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous ne pouvez pas ajouter de valeurs aux annotations prédéfinies.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Annotations*.

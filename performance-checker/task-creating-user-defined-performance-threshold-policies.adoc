@@ -15,12 +15,14 @@ Vous créez des règles de seuil de performances pour les objets de stockage, de
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous créez des stratégies de seuil de performances en entrant les valeurs de seuil sur la page Créer une stratégie de seuil de performances. Vous pouvez créer de nouvelles stratégies en définissant toutes les valeurs de la stratégie dans cette page, ou vous pouvez faire une copie d'une stratégie existante et modifier les valeurs dans la copie (appelée _clonage_).
@@ -34,6 +36,7 @@ La version actuelle fournit des seuils qui envoient des événements lorsqu'une 
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, sélectionnez *seuils d'événements* > *performances*.
@@ -87,6 +90,7 @@ Vous êtes renvoyé à la page seuils de performances. Un message de réussite e
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Si vous souhaitez appliquer la nouvelle stratégie de seuil aux objets de stockage à ce moment-là, vous pouvez cliquer sur le lien *accéder à Object_type Now* pour accéder à la page Inventaire.

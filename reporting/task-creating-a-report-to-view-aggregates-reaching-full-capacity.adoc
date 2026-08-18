@@ -15,6 +15,7 @@ Vous pouvez créer un rapport pour localiser les agrégats arrivant à pleine ca
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -22,12 +23,14 @@ Vous pouvez créer un rapport pour localiser les agrégats arrivant à pleine ca
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Procédez comme suit pour créer une vue personnalisée affichant les agrégats qui atteignent leur pleine capacité, puis planifiez la génération d'un rapport pour cette vue.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *Aggregates*.
@@ -50,6 +53,7 @@ Le rapport est envoyé immédiatement sous forme de test. Ensuite, le rapport g�
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En fonction des résultats présentés dans ce rapport, vous pouvez augmenter le stockage sur les agrégats pour atteindre pleinement leur capacité. Par ailleurs, vous pouvez vouloir augmenter le nombre de jours jusqu'à ce que la capacité totale soit supérieure à la valeur par défaut de 7 jours. Ainsi, vous recevez des événements qui donnent plus de temps à réagir en cas de faible quantité d'espace disponible sur les agrégats.

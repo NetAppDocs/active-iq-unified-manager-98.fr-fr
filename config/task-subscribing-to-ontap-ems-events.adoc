@@ -15,12 +15,14 @@ Vous pouvez vous abonner aux événements EMS (Event Management System) génér�
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Ne vous abonnez pas aux événements EMS déjà ajoutés automatiquement à Unified Manager, car ils peuvent être source de confusion lors de la réception de deux événements pour le même problème.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez vous abonner à un certain nombre d'événements EMS. Tous les événements auxquels vous êtes abonné sont validés, et seuls les événements validés sont appliqués aux clusters que vous surveillez dans Unified Manager. Le catalogue d'événements EMS _ONTAP 9_ fournit des informations détaillées sur tous les messages EMS pour la version spécifiée du logiciel ONTAP 9. Recherchez la version appropriée du catalogue d'événements _EMS_ dans la page Documentation produit de ONTAP 9 pour obtenir la liste des événements applicables.
@@ -36,6 +38,7 @@ Si vous ne recevez pas les événements EMS ONTAP auxquels vous êtes abonné, i
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Event Setup*.
@@ -63,6 +66,7 @@ Si le statut n'est pas « Oui », vérifiez l'orthographe du nom de l'événemen
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Lorsque l'événement EMS ONTAP se produit, l'événement s'affiche sur la page événements. Vous pouvez sélectionner l'événement pour afficher les détails de l'événement EMS sur la page Détails de l'événement. Vous pouvez également gérer la disposition de l'événement ou créer des alertes pour cet événement.

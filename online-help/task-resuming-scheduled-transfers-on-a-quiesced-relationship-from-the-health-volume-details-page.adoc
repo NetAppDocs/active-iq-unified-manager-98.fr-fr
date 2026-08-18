@@ -15,6 +15,7 @@ Une fois que vous avez suspendu une relation pour arrêter les transferts progra
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Une fois que vous avez suspendu une relation pour arrêter les transferts progra
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *protection* de la page d'informations *Volume / Santé*, cliquez avec le bouton droit de la souris dans la vue topologique d'une relation mise au repos que vous souhaitez reprendre.

@@ -17,6 +17,7 @@ Vous devez avoir le rôle Administrateur d'applications ou Administrateur de sto
 
 
 
+[[list-view]]
 == Vue liste
 
 La vue liste affiche des informations sur les fichiers de sauvegarde disponibles.
@@ -37,6 +38,7 @@ Date et heure de création de la sauvegarde.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Paramètres de sauvegarde*

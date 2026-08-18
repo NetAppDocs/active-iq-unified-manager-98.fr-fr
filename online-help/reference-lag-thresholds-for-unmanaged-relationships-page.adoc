@@ -21,6 +21,7 @@ Le seuil de décalage indique un pourcentage que le temps de décalage ne doit p
 
 
 
+[[lag-thresholds-for-unmanaged-relationships-area]]
 == Seuils de latence de la zone relations non gérées
 
 La zone de décalage permet de définir des seuils de décalage de relation non gérés dans les conditions suivantes :

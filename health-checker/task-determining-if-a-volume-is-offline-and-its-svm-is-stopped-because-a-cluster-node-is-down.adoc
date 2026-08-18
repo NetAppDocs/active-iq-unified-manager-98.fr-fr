@@ -15,18 +15,21 @@ Vous pouvez utiliser l'interface utilisateur Web Unified Manager pour confirmer 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Pour déterminer si le volume hors ligne est provoqué l'arrêt de son SVM hôte car le nœud hébergeant le volume root de ce SVM est arrêté, effectuer les actions suivantes :
 
 
 
+[[steps]]
 == Étapes
 
 . Localisez et cliquez sur le lien hypertexte affiché sous le SVM dans le volet *Related Devices* de la page de détails *Volume / Santé* du volume hors ligne.
@@ -55,6 +58,7 @@ L'onglet nœuds de la page des détails Cluster / Health affiche l'état de la p
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Après avoir confirmé que la condition de mise hors ligne du volume est provoquée par une condition de SVM hôte hors ligne de ce volume, qui lui-même est causée par le nœud qui héberge le volume racine de ce SVM en panne, contactez l'administrateur ou l'opérateur approprié pour redémarrer manuellement le nœud arrêté.

@@ -15,6 +15,7 @@ Grâce à Unified Manager, vous pouvez identifier un agrégat sur un nœud d'une
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -26,6 +27,7 @@ Grâce à Unified Manager, vous pouvez identifier un agrégat sur un nœud d'une
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Cette procédure vous permet d'identifier les ressources suivantes afin de déplacer des charges de travail haute performance vers un nœud le plus faible utilisé sur une autre paire haute disponibilité :
@@ -37,6 +39,7 @@ Cette procédure vous permet d'identifier les ressources suivantes afin de dépl
 
 
 
+[[steps]]
 == Étapes
 
 . Identifiez les nœuds qui font partie d'une autre paire haute disponibilité sur le même cluster :
@@ -101,6 +104,7 @@ Vous pouvez effectuer l'opération de déplacement en utilisant ONTAP System Man
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Après quelques jours, vérifiez si vous recevez le même type d'événements de ce nœud ou de cet agrégat.

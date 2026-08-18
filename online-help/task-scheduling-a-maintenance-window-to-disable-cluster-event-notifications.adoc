@@ -15,12 +15,14 @@ Si vous avez un temps d'indisponibilité planifié pour un cluster, par exemple 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Lors d'une fenêtre de maintenance, les événements liés à tous les objets du cluster sont toujours générés, mais ils n'apparaissent pas sur la page d'événement. En outre, aucune alerte ou tout autre type de notification n'est envoyée pour ces événements.
@@ -29,6 +31,7 @@ L'heure saisie pour la fenêtre de maintenance est basée sur l'heure sur le ser
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Cluster Setup*.
@@ -44,6 +47,7 @@ Le message "planifié" s'affiche à côté du bouton du curseur.
 
 
 
+[[results]]
 == Résultats
 
 Lorsque l'heure de début est atteinte, le cluster passe en mode maintenance et un événement « fenêtre de maintenance d'objet démarrée » est généré.

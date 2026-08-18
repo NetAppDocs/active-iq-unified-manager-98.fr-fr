@@ -17,6 +17,7 @@ Un message en bas de la page indique la fréquence à laquelle Unified Manager c
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Ajouter*
@@ -45,6 +46,7 @@ Force une opération de redécouverte du cluster pour que vous puissiez mettre �
 
 
 
+[[clusters-list]]
 == Liste des clusters
 
 La liste clusters affiche les propriétés de tous les clusters découverts. Vous pouvez cliquer sur un en-tête de colonne pour trier les clusters selon cette colonne.

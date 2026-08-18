@@ -15,18 +15,21 @@ Vous pouvez modifier l'ordre des actions de groupe à appliquer aux objets de st
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez sélectionner une ou plusieurs lignes, puis effectuer plusieurs opérations glisser-déposer pour modifier le rang des actions de groupe. Cependant, vous devez enregistrer les modifications pour que la nouvelle hiérarchisation soit reflétée dans la grille des actions de groupe.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Groups*.

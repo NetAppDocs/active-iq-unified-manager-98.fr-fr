@@ -15,12 +15,14 @@ Vous pouvez exporter des données de stockage dans divers formats de sortie, pui
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez exporter des données vers un `.csv` fichier, `.xlsx` fichier, ou `.pdf` Document à partir des pages d'inventaire *Storage* et *Network* et utilisez les données exportées pour créer des rapports. Il existe d'autres emplacements dans le produit uniquement `.csv` ou `.pdf` les fichiers peuvent être générés.
 
 
 
+[[steps]]
 == Étapes
 
 . Effectuez l'une des opérations suivantes :

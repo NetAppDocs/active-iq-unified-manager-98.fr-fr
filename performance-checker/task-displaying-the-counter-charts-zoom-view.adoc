@@ -15,12 +15,14 @@ La vue Zoom des diagrammes de compteur fournit un niveau de détail plus fin pou
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez afficher la vue Zoom des diagrammes de compteur pour n'importe quel compteur.
 
 
 
+[[steps]]
 == Étapes
 
 . Cliquez sur *Zoom View* pour ouvrir le graphique sélectionné dans une nouvelle fenêtre de navigateur.

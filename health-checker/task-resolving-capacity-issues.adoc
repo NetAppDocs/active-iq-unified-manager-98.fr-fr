@@ -15,18 +15,21 @@ Ce flux de travail fournit un exemple de résolution d'un problème de capacité
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Sur la page Tableau de bord, vous recherchez un événement d'erreur « espace de volume plein » dans le panneau capacité sous la liste déroulante événements.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le panneau *Capacity* de la page *Dashboard*, cliquez sur le nom de l'événement Volume Space Full error.

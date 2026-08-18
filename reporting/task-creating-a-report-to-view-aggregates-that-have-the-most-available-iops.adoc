@@ -15,6 +15,7 @@ Ce rapport indique les agrégats qui disposent des IOPS par type d'agrégat les 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -22,12 +23,14 @@ Ce rapport indique les agrégats qui disposent des IOPS par type d'agrégat les 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Procédez comme suit pour ouvrir une vue Santé : tous les volumes, télécharger la vue dans Excel, créer un graphique des capacités disponibles, télécharger le fichier Excel personnalisé et planifier le rapport final.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *Aggregates*.
@@ -89,6 +92,7 @@ Le rapport est envoyé immédiatement sous forme de test. Ensuite, le rapport g�
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En fonction des résultats présentés dans ce rapport, vous pouvez provisionner de nouveaux workloads sur les agrégats disposant des valeurs d'IOPS les plus élevées.

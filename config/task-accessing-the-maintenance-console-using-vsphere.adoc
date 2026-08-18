@@ -15,6 +15,7 @@ Si l'interface utilisateur Unified Manager n'est pas en cours de fonctionnement 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez être l'utilisateur de maintenance.
@@ -23,6 +24,7 @@ Si l'interface utilisateur Unified Manager n'est pas en cours de fonctionnement 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans vSphere client, recherchez l'appliance virtuelle Unified Manager.

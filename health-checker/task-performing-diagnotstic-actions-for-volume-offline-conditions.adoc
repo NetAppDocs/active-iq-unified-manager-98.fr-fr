@@ -15,12 +15,14 @@ Après avoir accédé à la page des détails du volume/de l'état d'intégrité
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Si le volume signalé n'a pas été délibérément hors ligne, ce volume peut être hors ligne pour plusieurs raisons.
@@ -29,6 +31,7 @@ Si le volume signalé n'a pas été délibérément hors ligne, ce volume peut �
 
 
 
+[[choices]]
 == Choix
 
 * Cliquez sur les liens de la page *Volume / Santé* pour déterminer si le volume est hors ligne, car son nœud hôte est en panne et le basculement du stockage vers son partenaire de paire haute disponibilité a également échoué.

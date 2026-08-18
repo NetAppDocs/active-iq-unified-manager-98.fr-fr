@@ -15,6 +15,7 @@ Vous affectez une règle de seuil de performances définie par l'utilisateur à 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
@@ -23,6 +24,7 @@ La ou les règles de seuil de performances que vous souhaitez appliquer à l'obj
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous ne pouvez appliquer qu'une seule règle de performances à la fois à un objet ou à un groupe d'objets.
@@ -36,6 +38,7 @@ Vous pouvez attribuer un maximum de trois règles de seuil à chaque objet de st
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page d'inventaire des performances d'un objet de stockage, sélectionnez l'objet ou les objets vers lesquels vous souhaitez attribuer une règle de seuil :
@@ -87,6 +90,7 @@ Un message de réussite en haut de la page confirme que la règle de seuil a ét
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Si vous souhaitez que des alertes soient envoyées par e-mail, ou en tant que trap SNMP, pour vous informer qu'un événement de performance particulier a été généré, vous devez configurer les paramètres d'alerte dans la page Configuration de l'alerte.

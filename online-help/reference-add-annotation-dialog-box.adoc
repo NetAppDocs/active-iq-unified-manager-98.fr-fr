@@ -27,6 +27,7 @@ Indique une description significative de l'annotation.
 
 
 
+[[annotation-values]]
 == Valeurs d'annotation
 
 * *Ajouter*
@@ -41,6 +42,7 @@ Supprime la valeur sélectionnée pour une annotation.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Enregistrer et fermer*

@@ -15,6 +15,7 @@ Les services d'authentification permettent l'authentification d'utilisateurs dis
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir activé l'authentification à distance.
@@ -23,6 +24,7 @@ Les services d'authentification permettent l'authentification d'utilisateurs dis
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *authentification à distance*.

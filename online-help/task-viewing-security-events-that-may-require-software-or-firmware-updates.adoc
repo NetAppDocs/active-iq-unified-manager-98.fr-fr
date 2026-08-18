@@ -15,18 +15,21 @@ Certains événements de sécurité ont une zone d'impact de « mise à niveau �
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez effectuer une action corrective immédiatement pour certains de ces problèmes, alors que d'autres peuvent attendre la prochaine maintenance planifiée. Vous pouvez afficher tous ces événements et les attribuer à des utilisateurs capables de résoudre ces problèmes. En outre, si certains événements de mise à niveau de sécurité que vous ne souhaitez pas être avertis, cette liste peut vous aider à identifier ces événements afin de pouvoir les désactiver.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Event Management*.

@@ -15,6 +15,7 @@ Vous pouvez configurer des alertes pour vous avertir lorsqu'un événement parti
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir configuré des paramètres de notification tels que l'adresse e-mail de l'utilisateur, le serveur SMTP et l'hôte d'interruption SNMP pour permettre au serveur Active IQ Unified Manager d'utiliser ces paramètres pour envoyer des notifications aux utilisateurs lorsqu'un événement est généré.
@@ -25,12 +26,14 @@ Vous pouvez configurer des alertes pour vous avertir lorsqu'un événement parti
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez créer une alerte directement à partir de la page Détails de l'événement après avoir reçu un événement en plus de créer une alerte à partir de la page Configuration de l'alerte, comme décrit ici.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Alert Setup*.
@@ -65,6 +68,7 @@ Vous pouvez également choisir de notifier les utilisateurs via les interruption
 
 
 
+[[example-of-adding-an-alert]]
 == Exemple d'ajout d'une alerte
 
 Dans cet exemple, vous apprendrez à créer une alerte conforme aux exigences suivantes :

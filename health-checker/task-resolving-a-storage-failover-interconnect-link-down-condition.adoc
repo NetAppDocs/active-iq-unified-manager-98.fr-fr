@@ -15,18 +15,21 @@ Ce workflow fournit un exemple de numérisation, d'évaluation et de résolution
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Si les interconnexions du basculement du stockage entre les paires haute disponibilité échouent dans le cadre d'une tentative de mise à niveau sans interruption, la mise à niveau échoue. Il est donc courant que l'administrateur surveille et confirme la fiabilité du basculement du stockage sur les nœuds de cluster dont la mise à niveau est prévue avant le début d'une mise à niveau.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Event Management*.

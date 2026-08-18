@@ -15,6 +15,7 @@ Vous pouvez modifier un partage de fichiers NFS pour prendre en charge le protoc
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 . Un partage de fichiers NFS doit avoir été créé avec uniquement les détails de la export policy. Pour plus d'informations, reportez-vous aux sections _gestion des partages de fichiers_ et _modification des charges de travail du stockage_.
@@ -23,12 +24,14 @@ Vous pouvez modifier un partage de fichiers NFS pour prendre en charge le protoc
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Cette fonctionnalité s'applique à un partage de fichiers NFS que vous avez créé en ajoutant uniquement des règles d'export policy et non des paramètres ACL. Vous modifiez le partage de fichiers NFS pour inclure les paramètres ACL.
 
 
 
+[[steps]]
 == Étapes
 
 . Sur le partage de fichiers NFS, exécutez une `PATCH` Fonctionnement avec les détails de la liste de contrôle d'accès pour autoriser l'accès CIFS.

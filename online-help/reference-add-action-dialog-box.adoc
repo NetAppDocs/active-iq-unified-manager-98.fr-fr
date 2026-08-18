@@ -38,6 +38,7 @@ Unified Manager ne prend actuellement en charge que le type d'action de seuil de
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Ajouter*

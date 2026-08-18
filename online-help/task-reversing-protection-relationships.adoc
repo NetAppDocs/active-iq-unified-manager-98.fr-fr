@@ -15,6 +15,7 @@ Lorsqu'un incident désactive le volume source de votre relation de protection, 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -28,6 +29,7 @@ Lorsqu'un incident désactive le volume source de votre relation de protection, 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 * Lorsque vous effectuez cette tâche, les données de la source qui sont plus récentes que les données de la copie Snapshot commune sont supprimées.
@@ -39,6 +41,7 @@ Si des stratégies et des plannings n'existent pas, ils sont créés.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Volume relations*, sélectionnez un ou plusieurs volumes avec des relations que vous souhaitez inverser et, dans la barre d'outils, cliquez sur *Reverse Resync*.

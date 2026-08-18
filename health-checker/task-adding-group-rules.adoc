@@ -15,18 +15,21 @@ Vous pouvez créer des règles de groupe pour ajouter de manière dynamique des 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les objets de stockage actuellement surveillés sont ajoutés dès la création de la règle de groupe. Les nouveaux objets sont ajoutés uniquement une fois le cycle de surveillance terminé.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Groups*.
@@ -66,6 +69,7 @@ Un groupe de conditions
 
 
 
+[[example-for-creating-a-group-rule]]
 == Exemple de création d'une règle de groupe
 
 Procédez comme suit dans la boîte de dialogue Ajouter une règle de groupe pour créer une règle de groupe, y compris la configuration d'une condition et l'ajout d'un groupe de conditions :

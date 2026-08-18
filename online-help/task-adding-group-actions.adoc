@@ -15,12 +15,14 @@ Vous pouvez configurer les actions de groupe que vous souhaitez appliquer aux ob
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Groups*.

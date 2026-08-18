@@ -15,6 +15,7 @@ Lorsqu'un volume source de votre relation de protection est désactivé en raiso
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Lorsqu'un volume source de votre relation de protection est désactivé en raiso
 
 
 
+[[steps]]
 == Étapes
 
 . xref:task-breaking-a-snapmirror-relationship-from-the-health-volume-details-page.adoc[Interrompre la relation SnapMirror].

@@ -15,12 +15,14 @@ Un nom est attribué à l'hôte réseau lors du premier déploiement de l'applia
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez être connecté à Unified Manager en tant qu'utilisateur de maintenance, ou avoir le rôle d'administrateur d'applications qui vous est attribué pour effectuer ces tâches.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez utiliser le nom d'hôte (ou l'adresse IP de l'hôte) pour accéder à l'interface utilisateur Web Unified Manager. Si vous avez configuré une adresse IP statique pour votre réseau pendant le déploiement, vous avez alors désigné un nom pour l'hôte réseau. Si vous avez configuré le réseau à l'aide de DHCP, le nom d'hôte doit être pris du DNS. Si DHCP ou DNS n'est pas correctement configuré, le nom d'hôte « Unified Manager » est automatiquement attribué et associé au certificat de sécurité.
@@ -35,6 +37,7 @@ Le nouveau certificat n'est effectif qu'après le redémarrage de la machine vir
 
 
 
+[[steps]]
 == Étapes
 
 . xref:task-generating-an-https-security-certificate-ocf.adoc[Générez un certificat de sécurité HTTPS]

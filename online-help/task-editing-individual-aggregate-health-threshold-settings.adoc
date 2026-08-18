@@ -15,12 +15,14 @@ Vous pouvez modifier les paramètres du seuil de santé pour la capacité global
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 En fonction des modifications apportées aux valeurs de seuil, les événements sont générés ou obsolètes dans le cycle de surveillance suivant.
@@ -29,6 +31,7 @@ Lorsque la croissance automatique est activée sur les volumes qui résident sur
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *Aggregates*.

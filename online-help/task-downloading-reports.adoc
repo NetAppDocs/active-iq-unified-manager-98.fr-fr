@@ -15,6 +15,7 @@ Vous pouvez télécharger des rapports et enregistrer les données sur un lecteu
 
 
 
+[[steps]]
 == Étapes
 
 . Cliquez sur le bouton *Rapports* pour télécharger le rapport comme suit :

@@ -15,6 +15,7 @@ Vous pouvez rechercher des rapports programmés par nom, nom d'affichage, type d
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Report Schedules*.

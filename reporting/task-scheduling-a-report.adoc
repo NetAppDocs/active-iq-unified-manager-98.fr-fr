@@ -15,6 +15,7 @@ Une fois que vous avez une vue ou un fichier Excel que vous souhaitez planifier 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -24,12 +25,14 @@ Une fois que vous avez une vue ou un fichier Excel que vous souhaitez planifier 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Procédez comme suit pour tester et planifier la génération d'un rapport pour une vue. Sélectionnez ou personnalisez la vue que vous souhaitez utiliser. La procédure suivante utilise une vue réseau affichant les performances de vos interfaces réseau, mais vous pouvez utiliser n'importe quelle vue que vous souhaitez.
 
 
 
+[[steps]]
 == Étapes
 
 . Ouvrez votre vue. Cet exemple utilise la vue réseau par défaut qui affiche les performances LIF. Dans le volet de navigation de gauche, cliquez sur réseau** > *interfaces réseau*.

@@ -15,6 +15,7 @@ Vous pouvez définir une liste d'objets corrélés pour les données et les comp
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez ajouter n'importe quel objet de la grille des objets corrélés aux volets Comparer et compteur graphique. Cela vous permet d'afficher et de comparer les données de plusieurs objets et avec l'objet racine. Vous pouvez ajouter et supprimer des objets dans et à partir de la grille d'objets corrélés ; cependant, l'objet racine dans le volet comparaison n'est pas amovible.
@@ -26,6 +27,7 @@ L'ajout de nombreux objets au volet de comparaison peut avoir un impact négatif
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans la grille des objets, localisez l'objet que vous souhaitez ajouter, puis cliquez sur le bouton *Ajouter*.

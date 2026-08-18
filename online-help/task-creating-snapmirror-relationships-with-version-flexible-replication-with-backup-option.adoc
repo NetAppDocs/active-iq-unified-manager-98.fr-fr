@@ -15,6 +15,7 @@ Vous pouvez créer une relation SnapMirror avec la fonctionnalité d'option de r
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -26,12 +27,14 @@ Vous pouvez créer une relation SnapMirror avec la fonctionnalité d'option de r
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La configuration de SnapMirror avec l'option de sauvegarde vous permet de protéger vos données avec les fonctionnalités de reprise après incident SnapMirror, telles que le basculement de volume, tout en offrant des fonctionnalités SnapVault, comme la protection pour plusieurs copies de sauvegarde.
 
 
 
+[[steps]]
 == Étapes
 
 . Affichez la boîte de dialogue *Configure protection* pour le volume que vous souhaitez protéger.

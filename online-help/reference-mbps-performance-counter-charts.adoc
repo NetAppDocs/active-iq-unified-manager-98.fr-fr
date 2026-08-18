@@ -25,12 +25,14 @@ Deux types de graphiques MB/s sont disponibles :
 
 
 
+[[mbs-total-counter-chart]]
 == MB/s - compteur total
 
 Affiche le nombre de mégaoctets de données transférées vers et depuis l'objet sélectionné par seconde.
 
 
 
+[[mbs-breakdown-counter-chart]]
 == MB/s - Tableau des compteurs de ventilation
 
 Affiche les mêmes données Mo/s séparées en lecture de disque, lecture, écriture de Flash cache et autres opérations.
@@ -44,6 +46,7 @@ Les données de Flash cache s'affichent uniquement pour les nœuds et uniquement
 ====
 
 
+[[zoom-view-button]]
 == *Bouton Zoom View*
 
 Affiche une vue agrandie des données du compteur.

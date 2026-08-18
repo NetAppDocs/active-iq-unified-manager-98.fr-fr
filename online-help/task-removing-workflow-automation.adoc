@@ -15,12 +15,14 @@ Vous pouvez supprimer la configuration OnCommand Workflow Automation d'Unified M
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *Workflow Automation* dans le menu de configuration de gauche.

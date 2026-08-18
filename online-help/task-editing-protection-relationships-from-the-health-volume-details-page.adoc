@@ -15,6 +15,7 @@ Vous pouvez modifier les relations de protection existantes pour modifier le tau
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,12 +24,14 @@ Vous pouvez modifier les relations de protection existantes pour modifier le tau
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les volumes sélectionnés doivent être des destinations de relation de protection. Vous ne pouvez pas modifier les relations lorsque les volumes source, les volumes de partage de charge ou les volumes qui ne sont pas de destination d'une relation SnapMirror ou SnapVault sont sélectionnés.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *protection* de la page *Volume / Santé*, localisez dans la topologie la relation de protection que vous souhaitez modifier et cliquez dessus avec le bouton droit de la souris.

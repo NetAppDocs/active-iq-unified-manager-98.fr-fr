@@ -15,6 +15,7 @@ Vous pouvez créer des planifications SnapMirror et SnapVault de base ou avancé
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -24,6 +25,7 @@ Vous pouvez créer des planifications SnapMirror et SnapVault de base ou avancé
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *SnapMirror* ou *SnapVault* de la boîte de dialogue *configurer la protection*, cliquez sur le lien *Créer un programme* dans la zone *Paramètres de relation*.

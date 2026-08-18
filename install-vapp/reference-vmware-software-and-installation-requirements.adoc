@@ -15,6 +15,7 @@ Le système VMware vSphere sur lequel vous installez Unified Manager nécessite 
 
 
 
+[[operating-system-software]]
 == Logiciel de système d'exploitation
 
 Les versions suivantes de VMware ESXi sont prises en charge :
@@ -40,6 +41,7 @@ Le temps du serveur VMware ESXi doit être identique au temps du serveur NTP pou
 
 
 
+[[installation-requirements]]
 == Conditions requises pour l'installation
 
 VMware High Availability pour l'appliance virtuelle Unified Manager est pris en charge.

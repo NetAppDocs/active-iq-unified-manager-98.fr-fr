@@ -15,18 +15,21 @@ Depuis le point de vue Health: All Storage VM, vous pouvez surveiller l'inventai
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez afficher des détails relatifs aux SVM, comme la capacité, l'efficacité et la configuration d'un SVM. Vous pouvez également afficher des informations sur les périphériques associés et les alertes associées pour ce SVM.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *Storage VM*.

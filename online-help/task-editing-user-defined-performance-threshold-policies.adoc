@@ -15,18 +15,21 @@ Vous pouvez modifier les paramètres de seuil des règles de seuils de performan
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous ne pouvez pas modifier le nom de la règle ou le type d'objet de stockage actuellement contrôlé pour les règles de seuils existantes.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, sélectionnez *seuils d'événements* > *performances*.
@@ -45,12 +48,14 @@ Vous êtes renvoyé à la page seuils de performances.
 
 
 
+[[results]]
 == Résultats
 
 Une fois qu'elles ont été enregistrées, les modifications sont immédiatement mises à jour sur tous les objets de stockage qui utilisent la règle.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En fonction du type de modifications apportées à la règle, vous pouvez consulter les paramètres d'alerte configurés pour les objets qui utilisent la règle dans la page Configuration des alertes.

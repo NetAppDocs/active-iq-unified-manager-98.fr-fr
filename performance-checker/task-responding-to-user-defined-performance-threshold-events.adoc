@@ -15,6 +15,7 @@ Vous pouvez utiliser Unified Manager pour analyser les événements de performan
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez utiliser Unified Manager pour analyser les événements de performan
 
 
 
+[[steps]]
 == Étapes
 
 . Affichez la page *Event* details pour afficher des informations sur l'événement.

@@ -15,6 +15,7 @@ Utilisez la page d'informations sur les performances/agrégats pour afficher la 
 
 
 
+[[aggregate-attributes]]
 == Attributs d'agrégation
 
 * *Type*

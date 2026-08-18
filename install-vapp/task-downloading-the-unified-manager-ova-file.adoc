@@ -15,18 +15,21 @@ Téléchargez le fichier d'installation Unified Manager depuis le site de suppor
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez disposer des identifiants de connexion pour le site du support NetApp.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le fichier d'installation est un `OVA` Fichier qui contient le logiciel Unified Manager configuré dans une appliance virtuelle.
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous au site de support NetApp et accédez à la page *Download* pour Unified Manager : https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["Site de support NetApp"^]

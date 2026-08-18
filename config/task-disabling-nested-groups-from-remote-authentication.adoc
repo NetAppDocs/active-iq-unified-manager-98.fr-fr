@@ -15,6 +15,7 @@ Si l'authentification à distance est activée, vous pouvez désactiver l'authen
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications.
@@ -23,12 +24,14 @@ Si l'authentification à distance est activée, vous pouvez désactiver l'authen
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La désactivation de la prise en charge des groupes imbriqués dans Unified Manager peut réduire le temps d'authentification. Si la prise en charge des groupes imbriqués est désactivée et si un groupe distant est ajouté à Unified Manager, les utilisateurs individuels doivent être membres du groupe distant pour s'authentifier auprès d'Unified Manager.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *authentification à distance*.

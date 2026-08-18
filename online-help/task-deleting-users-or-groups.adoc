@@ -15,6 +15,7 @@ Vous pouvez supprimer un ou plusieurs utilisateurs de la base de données du ser
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Lorsque vous supprimez des groupes distants, vous devez avoir réaffecté les événements qui sont affectés aux utilisateurs des groupes distants.
@@ -26,6 +27,7 @@ Si vous supprimez des utilisateurs locaux ou distants, les événements qui sont
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *utilisateurs*.

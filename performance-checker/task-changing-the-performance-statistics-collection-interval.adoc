@@ -15,12 +15,14 @@ L'intervalle de collecte par défaut des statistiques de performances est de 5 m
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez disposer d'un ID utilisateur et d'un mot de passe autorisés pour vous connecter à la console de maintenance du serveur Unified Manager.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La question des collections de statistiques de performance qui ne se termine pas à temps est indiquée par les messages de bannière `Unable to consistently collect from cluster <cluster_name>` ou `Data collection is taking too long on cluster <cluster_name>`.
@@ -36,6 +38,7 @@ Un message en bas de la page Cluster Setup indique l'intervalle de collecte des 
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous en utilisant SSH en tant qu'utilisateur de maintenance sur l'hôte Unified Manager.
@@ -49,6 +52,7 @@ Les invites de la console de maintenance Unified Manager s'affichent.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Si vous avez modifié l'intervalle de collecte de Unified Manager à 10 ou 15 minutes et que vous disposez d'une connexion actuelle à un fournisseur de données externe (Graphite, par exemple), vous devez modifier l'intervalle de transmission du fournisseur de données de façon à ce qu'il soit supérieur ou égal à l'intervalle de collecte Unified Manager.

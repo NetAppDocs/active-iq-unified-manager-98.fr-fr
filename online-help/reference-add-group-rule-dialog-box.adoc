@@ -39,6 +39,7 @@ Spécifie les groupes de condition qui ont une ou plusieurs conditions définies
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Enregistrer et ajouter*

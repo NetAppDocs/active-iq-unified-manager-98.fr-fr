@@ -15,6 +15,7 @@ Vous pouvez utiliser la boîte de dialogue Réordonner la règle d'annotation po
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -31,6 +32,7 @@ Ferme la boîte de dialogue Réordonner la règle d'annotation sans enregistrer 
 
 
 
+[[list-view]]
 == Vue liste
 
 * *Rang*

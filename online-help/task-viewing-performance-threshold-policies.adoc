@@ -15,6 +15,7 @@ Vous pouvez afficher toutes les règles de seuils de performance actuellement d�
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La liste des stratégies de seuils est triée par ordre alphabétique par nom de la règle et comprend les stratégies de tous les types d'objets de stockage. Vous pouvez cliquer sur un en-tête de colonne pour trier les polices d'après cette colonne. Si vous recherchez une stratégie spécifique, utilisez les mécanismes de filtre et de recherche pour affiner la liste des stratégies de seuils qui s'affichent dans la liste de stocks.
@@ -23,6 +24,7 @@ Vous pouvez placer le curseur sur le nom de la stratégie et le nom de la condit
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, sélectionnez *seuils d'événements* > *performances*.

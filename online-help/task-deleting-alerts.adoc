@@ -15,12 +15,14 @@ Vous pouvez supprimer une alerte lorsqu'elle n'est plus requise. Par exemple, vo
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Alert Setup*.

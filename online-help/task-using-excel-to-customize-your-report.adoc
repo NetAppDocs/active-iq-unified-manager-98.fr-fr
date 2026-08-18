@@ -15,12 +15,14 @@ Une fois la vue enregistrée, vous pouvez la télécharger au format classeur Ex
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous ne pouvez charger qu'un fichier classeur Excel avec le `.xlsx` extension.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Par exemple, certaines fonctions Excel avancées que vous pouvez utiliser dans votre rapport sont les suivantes :
@@ -52,6 +54,7 @@ Par exemple, certaines fonctions Excel avancées que vous pouvez utiliser dans v
 ====
 
 
+[[steps]]
 == Étapes
 
 . Ouvrez la vue par défaut, personnalisée ou enregistrée que vous souhaitez utiliser comme base de votre rapport.

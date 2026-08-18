@@ -15,6 +15,7 @@ Vous pouvez rechercher des chaînes dans les pages performances de l'inventaire 
 
 
 
+[[steps]]
 == Étapes
 
 . Effectuez l'une des options suivantes en fonction de vos besoins de recherche :

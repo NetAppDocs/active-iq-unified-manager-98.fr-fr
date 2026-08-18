@@ -15,6 +15,7 @@ Une fois que vous avez suspendu une relation pour arrêter les transferts progra
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,12 +24,14 @@ Une fois que vous avez suspendu une relation pour arrêter les transferts progra
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous ne pouvez sélectionner pas plus de 10 relations suspendues pour reprendre les transferts.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Volume relations*, sélectionnez un ou plusieurs volumes avec des relations suspendues et, dans la barre d'outils, cliquez sur *Resume*.

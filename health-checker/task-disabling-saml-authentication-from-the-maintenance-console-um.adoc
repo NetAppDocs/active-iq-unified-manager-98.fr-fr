@@ -15,12 +15,14 @@ Si vous n'avez pas accès à l'interface graphique Unified Manager, vous devrez 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Comme utilisateur de maintenance, vous devez avoir accès à la console de maintenance.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Lorsque l'authentification SAML est désactivée, les fournisseurs de services d'annuaire configurés, tels qu'Active Directory ou LDAP, exécutent l'authentification d'identification. Les utilisateurs locaux et les utilisateurs de maintenance pourront accéder à l'interface utilisateur graphique en plus des utilisateurs distants configurés.
@@ -34,6 +36,7 @@ Unified Manager est redémarré automatiquement après la désactivation de l'au
 ====
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous à la console de maintenance.
@@ -46,12 +49,14 @@ Un message s'affiche pour confirmer que vous souhaitez désactiver l'authentific
 
 
 
+[[results]]
 == Résultats
 
 Lors de la prochaine tentative d'accès à l'interface graphique Unified Manager, les utilisateurs distants vont entrer leurs identifiants dans la page de connexion de Unified Manager au lieu de la page de connexion IDP.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Si nécessaire, accédez à votre IDP et supprimez l'URL du serveur Unified Manager et les métadonnées.

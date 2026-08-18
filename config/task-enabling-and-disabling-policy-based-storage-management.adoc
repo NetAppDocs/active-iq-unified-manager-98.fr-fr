@@ -15,12 +15,14 @@ Depuis la version 9.7 de Unified Manager, vous pouvez provisionner les charges d
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Activation par défaut de cette option, mais désactivation si vous ne souhaitez pas provisionner et gérer les charges de travail à l'aide d'Unified Manager.
@@ -62,6 +64,7 @@ Pour plus d'informations sur ces pages et sur cette fonctionnalité, reportez-vo
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *Paramètres de fonction*.

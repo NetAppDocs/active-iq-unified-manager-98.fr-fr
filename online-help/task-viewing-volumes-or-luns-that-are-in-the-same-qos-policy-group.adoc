@@ -15,6 +15,7 @@ Vous pouvez afficher la liste des volumes et des LUN qui ont été attribués au
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Dans le cas des groupes de règles de QoS traditionnels qui sont « rouges » entre plusieurs volumes, il peut être utile de vérifier si certains volumes utilisent le débit défini pour le groupe de règles. Il vous aide également à décider si vous pouvez ajouter d'autres volumes au groupe de règles sans affecter les autres volumes.
@@ -23,6 +24,7 @@ Dans le cas des règles de QoS adaptatives et des règles de niveaux de service 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *QoS Policy Groups*.

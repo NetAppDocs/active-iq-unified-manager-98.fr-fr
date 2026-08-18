@@ -15,6 +15,7 @@ Après avoir reçu un événement d'erreur « Volume Space Full », vous passez 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Un utilisateur possédant n'importe quel rôle peut effectuer toutes les tâches
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Dans cet exemple, vous avez vu un événement Volume Space Full error sur la page d'inventaire Unified ManagerEvent Management et vous avez cliqué sur le nom de l'événement.
@@ -38,6 +40,7 @@ Bien que toutes ces actions doivent être effectuées depuis ONTAP System Manage
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Event* details, cliquez sur le nom du volume dans le champ Source pour afficher les détails du volume affecté.

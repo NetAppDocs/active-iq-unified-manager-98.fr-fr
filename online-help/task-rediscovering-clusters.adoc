@@ -15,6 +15,7 @@ Vous pouvez redécouvrir manuellement un cluster à partir de la page de configu
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez redécouvrir manuellement un cluster lorsque vous souhaitez mettre à jour le cluster, par exemple en augmentant la taille d'un agrégat lorsque l'espace est insuffisant, et vous souhaitez qu'Unified Manager détecte les modifications que vous apportez.
@@ -23,6 +24,7 @@ Lorsque Unified Manager est associé à OnCommand Workflow Automation (WFA), le 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Cluster Setup*.

@@ -15,6 +15,7 @@ Application de seuils dans la vue Zoom des diagrammes de compteur fournit une vu
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La sélection de seuils dans la vue Zoom des diagrammes de compteur vous permet d'afficher des données précises sur les événements de seuil de performance. Vous pouvez appliquer n'importe quel seuil qui apparaît sous la zone *Policies* de la vue Zoom des diagrammes de compteur.
@@ -23,6 +24,7 @@ Une seule règle à la fois peut être appliquée à l'objet dans la vue Zoom de
 
 
 
+[[steps]]
 == Étapes
 
 . Sélectionner ou désélectionner le image:../media/eye-icon.gif[""] associé à une politique.

@@ -15,6 +15,7 @@ Vous pouvez créer une règle SnapMirror pour spécifier la priorité de transfe
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -24,6 +25,7 @@ Vous pouvez créer une règle SnapMirror pour spécifier la priorité de transfe
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *SnapMirror* de la boîte de dialogue *Configure protection*, cliquez sur le lien *Create Policy* dans la zone *Relationship Settings*.

@@ -15,6 +15,7 @@ Vous pouvez interrompre une relation de protection à partir de la page des dét
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez interrompre une relation de protection à partir de la page des dét
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *protection* de la page *Volume / Santé*, sélectionnez dans la topologie la relation SnapMirror que vous souhaitez interrompre.

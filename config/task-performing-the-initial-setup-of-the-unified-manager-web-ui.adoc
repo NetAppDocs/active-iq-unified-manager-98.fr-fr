@@ -15,6 +15,7 @@ Pour utiliser Unified Manager, vous devez d'abord configurer les options de conf
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir effectué les opérations suivantes :
@@ -25,6 +26,7 @@ Vous devez avoir effectué les opérations suivantes :
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La page mise en route du Gestionnaire unifié Active IQ s'affiche uniquement lorsque vous accédez pour la première fois à l'interface utilisateur Web. La page ci-dessous provient d'une installation sur VMware.
@@ -35,6 +37,7 @@ Si vous souhaitez modifier l'une de ces options ultérieurement, vous pouvez sé
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page Configuration initiale de Active IQ Unified Manager, entrez l'adresse e-mail de l'utilisateur de maintenance, le nom d'hôte du serveur SMTP et toutes les options SMTP supplémentaires, ainsi que le serveur NTP (installations VMware uniquement). Cliquez ensuite sur *Continuer*.
@@ -56,6 +59,7 @@ Cette étape est facultative. Vous pouvez ajouter des clusters ultérieurement d
 
 
 
+[[results]]
 == Résultats
 
 La page mise en route se ferme et la page Tableau de bord Unified ManagerLe tableau de bord s'affiche.

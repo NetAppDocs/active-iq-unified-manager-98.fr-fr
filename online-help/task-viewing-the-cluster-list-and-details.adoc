@@ -15,12 +15,14 @@ Vous pouvez utiliser la vue Santé : tous les clusters pour afficher votre inven
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez également afficher les détails des clusters individuels, tels que leur état, leur capacité, leur configuration, les LIF, les nœuds, Et disques dans ce cluster à l'aide de la page des détails du cluster / intégrité.
@@ -29,6 +31,7 @@ Les détails de la vue Santé : tous les clusters, capacité : tous les clusters
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *clusters*.

@@ -15,6 +15,7 @@ Vous pouvez afficher des informations détaillées sur la latence d'un volume à
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Par ailleurs, le tableau latence - composants du cluster affiche une comparaison détaillée de la latence de chaque composant du cluster afin de déterminer comment chaque composant contribue à la latence totale du volume. Les composants de cluster suivants sont affichés :
@@ -34,6 +35,7 @@ Par ailleurs, le tableau latence - composants du cluster affiche une comparaison
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Volume Performance Explorer* pour le volume sélectionné, dans le graphique latence, sélectionnez *Cluster Components* dans le menu déroulant.

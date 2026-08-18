@@ -15,12 +15,14 @@ Vous pouvez configurer les valeurs du seuil de santé global pour tous les qtree
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les options de seuil ont des valeurs par défaut pour une meilleure surveillance. Cependant, vous pouvez modifier les valeurs en fonction des exigences de votre environnement.
@@ -29,6 +31,7 @@ Les événements sont générés pour un qtree uniquement lorsqu'un quota qtree 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *seuils d'événements* > *qtree*.

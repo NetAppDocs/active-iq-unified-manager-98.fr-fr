@@ -15,18 +15,21 @@ L'interface utilisateur Web de Unified Manager vous permet de confirmer ou d'él
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Pour déterminer si la condition de mise hors ligne du volume est provoquée par des problèmes de disque RAID qui chargent la mise hors ligne de l'agrégat d'hébergement, effectuez les opérations suivantes :
 
 
 
+[[steps]]
 == Étapes
 
 . Localisez et cliquez sur le lien hypertexte affiché sous agrégat dans le volet *périphériques associés* de la page de détails *Volume / Santé*.
@@ -46,6 +49,7 @@ Si les disques sont état Broken et ont provoqué l'état hors ligne de l'agrég
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Après avoir confirmé que le volume était provoqué par des disques RAID cassés et les agrégats hôtes hors ligne qui en découlent, contactez l'administrateur ou l'opérateur approprié pour remplacer manuellement les disques défectueux et remettre l'agrégat en ligne.

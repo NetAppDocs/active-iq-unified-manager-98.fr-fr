@@ -15,6 +15,7 @@ L'assistant de création de Storage Virtual machine associations permet aux appl
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * La SVM que vous associez doit déjà exister.
@@ -23,6 +24,7 @@ L'assistant de création de Storage Virtual machine associations permet aux appl
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Pour tout SVM source et type de relation, il n'est possible de choisir qu'un seul SVM de destination sur chaque cluster de destination.
@@ -31,6 +33,7 @@ La modification d'associations à l'aide des fonctions DELETE et create n'affect
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *protection* > *associations SVM*.

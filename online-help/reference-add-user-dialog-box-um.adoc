@@ -43,6 +43,7 @@ Vous permet d'affecter un rôle à l'utilisateur et de définir la portée des a
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes :

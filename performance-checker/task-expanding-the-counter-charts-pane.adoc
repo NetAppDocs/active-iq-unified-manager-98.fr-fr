@@ -15,12 +15,14 @@ Vous pouvez développer le volet diagrammes de compteur afin que les graphiques 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Une fois que vous avez défini les objets de comparaison et la plage horaire des compteurs, vous pouvez afficher un volet compteur plus grand. Utilisez le bouton *<* au milieu de la fenêtre de l'explorateur de performances pour développer le volet.
 
 
 
+[[steps]]
 == Étapes
 
 . Développez ou réduisez le volet *Counter Charts*.

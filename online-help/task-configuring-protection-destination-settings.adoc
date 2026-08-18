@@ -15,18 +15,21 @@ Vous pouvez configurer des paramètres d'efficacité de destination, tels que la
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Par défaut, les paramètres d'efficacité correspondent à ceux du volume source, sauf pour les paramètres de compression d'une relation SnapVault, qui sont désactivés par défaut.
 
 
 
+[[steps]]
 == Étapes
 
 . Cliquez sur l'onglet *SnapMirror* ou *SnapVault* de la boîte de dialogue *configurer la protection*, selon le type de relation que vous configurez.

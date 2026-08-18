@@ -15,6 +15,7 @@ Si vous êtes un utilisateur Windows, vous pouvez télécharger et installer un 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez être l'utilisateur de maintenance pour effectuer cette tâche.
@@ -23,6 +24,7 @@ Vous devez utiliser un outil prenant en charge SCP ou SFTP.
 
 
 
+[[steps]]
 == Étapes
 
 . Téléchargez et installez un outil pour récupérer le support bundle.

@@ -15,12 +15,14 @@ Vous pouvez télécharger une demande de certification pour le certificat de sé
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *certificat HTTPS*.
@@ -30,6 +32,7 @@ Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Vous pouvez fournir le fichier à une autorité de certification pour signer, puis installer le certificat signé.

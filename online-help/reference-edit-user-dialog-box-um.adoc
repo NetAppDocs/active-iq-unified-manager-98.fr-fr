@@ -15,6 +15,7 @@ La boîte de dialogue Modifier l'utilisateur vous permet de modifier uniquement 
 
 
 
+[[details]]
 == Détails
 
 La zone Détails vous permet de modifier les informations suivantes concernant un utilisateur sélectionné :
@@ -47,6 +48,7 @@ Permet de modifier le rôle attribué à l'utilisateur. Ce champ peut être modi
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes :

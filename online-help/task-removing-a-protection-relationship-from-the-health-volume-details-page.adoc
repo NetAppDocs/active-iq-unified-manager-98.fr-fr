@@ -15,6 +15,7 @@ Vous pouvez supprimer une relation de protection pour supprimer définitivement 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez supprimer une relation de protection pour supprimer définitivement 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *protection* de la page d'informations *Volume/Santé*, sélectionnez dans la topologie la relation SnapMirror que vous souhaitez supprimer.

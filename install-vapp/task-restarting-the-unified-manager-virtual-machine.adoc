@@ -15,6 +15,7 @@ Vous pouvez redémarrer la machine virtuelle (VM) Unified Manager à partir de l
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * L'appliance virtuelle doit être sous tension.
@@ -23,12 +24,14 @@ Vous pouvez redémarrer la machine virtuelle (VM) Unified Manager à partir de l
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez également redémarrer la machine virtuelle à partir de vSphere en utilisant l'option VMware *Restart Guest*.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la console de maintenance, sélectionnez *Configuration du système* > *redémarrer la machine virtuelle*.
@@ -37,4 +40,4 @@ Vous pouvez également redémarrer la machine virtuelle à partir de vSphere en 
 
 *Informations connexes*
 
-https://www.vmware.com/support/developer/PowerCLI/PowerCLI41/html/Restart-VMGuest.html["Références des applets de commande VMware vSphere PowerCLI : restart-VMGuest"^]
+https://developer.broadcom.com/powercli/latest/vmware.vimautomation.core/commands/restart-vmguest["Références des applets de commande VMware vSphere PowerCLI : restart-VMGuest"^]

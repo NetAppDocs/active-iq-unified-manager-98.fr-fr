@@ -17,6 +17,7 @@ Vous devez avoir le rôle Administrateur d'applications ou Administrateur de sto
 
 
 
+[[unified-manager-database-user]]
 == Utilisateur de la base de données Unified Manager
 
 Cette zone vous permet de saisir les informations d'identification d'un utilisateur de base de données requis pour l'association d'Unified Manager avec Workflow Automation :
@@ -33,6 +34,7 @@ Vous permet de spécifier un mot de passe pour le nom d'utilisateur spécifié.
 
 
 
+[[oncommand-workflow-automation-credentials]]
 == Informations d'identification OnCommand Workflow Automation
 
 Cette zone vous permet de saisir les identifiants d'un compte Workflow Automation requis pour l'association avec Unified Manager :
@@ -57,6 +59,7 @@ Vous permet de spécifier un mot de passe pour le nom d'utilisateur spécifié.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent de supprimer, d'enregistrer ou d'annuler les options de configuration :

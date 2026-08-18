@@ -15,6 +15,7 @@ Vous pouvez configurer des conditions seuils de santé globaux pour la capacité
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les paramètres de seuil de santé global s'appliquent à tous les objets auxquels ils sont associés, comme les agrégats, les volumes, etc. Lorsque les seuils sont croisés, un événement est généré et, si des alertes sont configurées, une notification d'alerte est envoyée. Les valeurs par défaut des seuils sont définies sur les valeurs recommandées, mais vous pouvez les modifier pour générer des événements à intervalles afin de répondre à vos besoins spécifiques. Lorsque les seuils sont modifiés, les événements sont générés ou obsolètes dans le cycle de surveillance suivant.
@@ -23,6 +24,7 @@ Les paramètres des seuils de santé globale sont accessibles depuis la section 
 
 
 
+[[choices]]
 == Choix
 
 * xref:task-configuring-global-aggregate-health-threshold-values.adoc[Configuration des valeurs des seuils de santé globaux des agrégats]

@@ -15,6 +15,7 @@ Filtrez les données pour vous assurer que les résultats correspondent aux exig
 
 
 
+[[steps]]
 == Étapes
 
 . Cliquez sur l'icône de filtre pour ajouter des filtres afin de cibler les résultats que vous souhaitez afficher, puis cliquez sur *appliquer le filtre*.

@@ -15,6 +15,7 @@ Vous pouvez afficher les détails de tous les partages SMB/CIFS, notamment le no
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * La licence CIFS doit être activée sur le cluster.
@@ -24,6 +25,7 @@ Vous pouvez afficher les détails de tous les partages SMB/CIFS, notamment le no
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 [NOTE]
@@ -33,6 +35,7 @@ Les partages des dossiers ne sont pas affichés.
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, suivez les étapes ci-dessous selon que vous souhaitez afficher tous les partages SMB/CIFS ou uniquement les partages d'un SVM particulier.

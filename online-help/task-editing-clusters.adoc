@@ -15,12 +15,14 @@ Vous pouvez modifier les paramètres d'un cluster existant, comme le nom d'hôte
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez disposer du rôle Administrateur d'applications ou Administrateur stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 [NOTE]
@@ -30,6 +32,7 @@ Depuis Unified Manager 9.7, vous pouvez ajouter des clusters en utilisant HTTPS 
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Cluster Setup*.

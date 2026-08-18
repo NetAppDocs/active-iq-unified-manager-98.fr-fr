@@ -15,6 +15,7 @@ La page utilisateurs affiche une liste de vos utilisateurs et groupes et fournit
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes pour les utilisateurs sélectionnés :
@@ -45,6 +46,7 @@ Vous ne pouvez effectuer cette tâche que si votre serveur d'authentification es
 
 
 
+[[list-view]]
 == Vue liste
 
 La vue liste affiche, sous forme de tableau, des informations sur les utilisateurs qui sont créés. Vous pouvez utiliser les filtres de colonne pour personnaliser les données affichées.

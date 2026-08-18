@@ -15,18 +15,21 @@ Ce flux de travail fournit un exemple de résolution d'un problème de décalage
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Sur la page Tableau de bord, vous examinez la zone incidents et risques non résolus et voyez une erreur de décalage SnapMirror dans le volet protection sous protection risques.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet *protection* de la page *Dashboard*, localisez l'erreur de décalage de la relation SnapMirror et cliquez dessus.

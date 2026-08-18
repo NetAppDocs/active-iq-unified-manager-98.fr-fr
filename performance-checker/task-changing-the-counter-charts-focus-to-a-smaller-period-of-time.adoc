@@ -15,6 +15,7 @@ Vous pouvez utiliser la souris pour réduire la plage de temps pour vous concent
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Le curseur doit avoir été remplacé par une loupe pour indiquer que cette fonctionnalité est active.
@@ -26,6 +27,7 @@ Lors de l'utilisation de cette fonction, qui modifie la ligne de temps pour affi
 ====
 
 
+[[steps]]
 == Étapes
 
 . Pour effectuer un zoom sur une période spécifique, cliquez à l'aide de la loupe et faites glisser la souris pour mettre en surbrillance la zone à afficher en détail.

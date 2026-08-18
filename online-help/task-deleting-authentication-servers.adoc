@@ -15,18 +15,21 @@ Vous pouvez supprimer un serveur d'authentification si vous souhaitez empêcher 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Lorsque vous supprimez un serveur d'authentification, les utilisateurs ou groupes distants du serveur d'authentification ne pourront plus accéder à Unified Manager.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *authentification à distance*.

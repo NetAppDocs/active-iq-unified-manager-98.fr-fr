@@ -15,18 +15,21 @@ Vous pouvez supprimer des agrégats d'un pool de ressources existant : par exemp
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les membres du pool de ressources ne sont affichés que lorsqu'un pool de ressources est sélectionné.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *protection* > *pools de ressources*.

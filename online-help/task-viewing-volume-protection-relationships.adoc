@@ -15,18 +15,21 @@ Depuis la vue relation : toutes les relations, et depuis la page Volume relation
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez également lancer des commandes de relation à partir de cette page.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

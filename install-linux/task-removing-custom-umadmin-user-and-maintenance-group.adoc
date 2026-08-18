@@ -15,12 +15,14 @@ Si vous avez créé un répertoire d'accueil personnalisé pour définir votre p
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La désinstallation standard de Unified Manager ne supprime pas un utilisateur et un compte de maintenance umadmin personnalisés. Vous devez supprimer ces éléments manuellement.
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous en tant qu'utilisateur racine au serveur Red Hat Enterprise Linux.

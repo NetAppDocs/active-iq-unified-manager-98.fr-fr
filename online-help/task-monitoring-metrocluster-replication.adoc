@@ -15,12 +15,14 @@ Vous pouvez contrôler et diagnostiquer l'état de santé général des connexio
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Le cluster local et distant en configuration MetroCluster doivent être ajoutés à Unified Manager
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez utiliser les informations affichées sur la page Cluster / Health Details pour corriger tout problème de réplication.
@@ -31,6 +33,7 @@ Unified Manager utilise des alertes d'état du système pour surveiller l'état 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *clusters*.
@@ -45,6 +48,7 @@ La topologie de la configuration MetroCluster à répliquer est affichée sur le
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Si vous détectez les problèmes de mise en miroir dans votre configuration MetroCluster, vous devez vous connecter à System Manager ou accéder à l'interface de ligne de commandes de ONTAP pour résoudre les problèmes.

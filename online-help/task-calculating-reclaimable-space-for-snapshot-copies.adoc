@@ -15,6 +15,7 @@ Vous pouvez calculer la quantité d'espace disque qui peut être récupérée si
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -24,6 +25,7 @@ Vous pouvez calculer la quantité d'espace disque qui peut être récupérée si
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

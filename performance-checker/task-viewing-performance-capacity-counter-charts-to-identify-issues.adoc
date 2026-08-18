@@ -15,6 +15,7 @@ Vous pouvez consulter les diagrammes de capacité des performances utilisés pou
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le tableau des compteurs standard affiche les valeurs de capacité de performances utilisées pour les nœuds ou agrégats sélectionnés. Le tableau des compteurs d'analyse affiche les valeurs de capacité de performance totale pour l'objet racine, séparées en utilisation en fonction des protocoles utilisateur par rapport aux processus du système en arrière-plan. En outre, la capacité des performances libres est également indiquée.
@@ -26,6 +27,7 @@ Comme certaines activités d'arrière-plan associées à la gestion du système 
 ====
 
 
+[[steps]]
 == Étapes
 
 . Sélectionnez l'onglet *Explorer* à partir d'une page de noeud ou d'agrégat *Landing*.

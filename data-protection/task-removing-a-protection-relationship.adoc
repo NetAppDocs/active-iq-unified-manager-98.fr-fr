@@ -15,6 +15,7 @@ Dans la page relations de volume, vous pouvez supprimer une relation de protecti
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Dans la page relations de volume, vous pouvez supprimer une relation de protecti
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Volume relations*, sélectionnez un ou plusieurs volumes avec des relations de protection que vous souhaitez supprimer et, dans la barre d'outils, cliquez sur *Remove*.

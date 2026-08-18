@@ -15,12 +15,14 @@ Vous pouvez annoter manuellement les volumes, les clusters et les SVM sélection
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[steps]]
 == Étapes
 
 . Accédez aux objets de stockage à annoter :

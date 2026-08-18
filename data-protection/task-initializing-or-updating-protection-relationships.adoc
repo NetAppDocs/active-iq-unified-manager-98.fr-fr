@@ -15,6 +15,7 @@ summary: À partir de la page Volume relations, vous pouvez effectuer un transfe
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ summary: À partir de la page Volume relations, vous pouvez effectuer un transfe
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Volume relations*, cliquez avec le bouton droit de la souris sur un volume et sélectionnez un ou plusieurs volumes avec des relations que vous souhaitez mettre à jour ou initialiser, puis, dans la barre d'outils, cliquez sur *Initialize/Update*.

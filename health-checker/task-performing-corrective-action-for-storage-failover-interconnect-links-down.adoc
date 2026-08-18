@@ -15,12 +15,14 @@ Lorsque vous affichez la page Détails de l'événement d'un événement lié au
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Dans cet exemple, le récapitulatif des événements disponible sur la page des détails de l'événement contient les informations suivantes concernant la condition d'interruption de la liaison d'interconnexion de basculement du stockage :
@@ -50,6 +52,7 @@ Cependant, pour vous assurer que la protection contre les liaisons qui échouent
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Event* details, vous pouvez cliquer sur le lien vers l'événement spécifié dans le champ Source pour obtenir plus de détails sur d'autres événements qui peuvent être liés à la condition d'interconnexion de basculement de stockage.
@@ -64,6 +67,7 @@ Dans cet exemple, les informations pertinentes se trouvent dans le tableau Evén
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En utilisant les informations d'emplacement du nœud dans les détails de la haute disponibilité, demander ou effectuer personnellement une inspection physique et la réparation du problème de basculement du stockage sur les nœuds de la paire haute disponibilité affectés.

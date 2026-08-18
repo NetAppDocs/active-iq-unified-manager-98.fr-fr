@@ -15,12 +15,14 @@ Vous devez accuser réception d'un événement avant de commencer à travailler 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez accepter et résoudre plusieurs événements simultanément.
@@ -32,6 +34,7 @@ Vous ne pouvez pas accuser réception d'événements d'information.
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Event Management*.

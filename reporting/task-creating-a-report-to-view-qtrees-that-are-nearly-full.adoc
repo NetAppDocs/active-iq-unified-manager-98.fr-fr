@@ -15,6 +15,7 @@ Vous pouvez créer un rapport pour analyser la capacité de stockage et l'utilis
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -22,12 +23,14 @@ Vous pouvez créer un rapport pour analyser la capacité de stockage et l'utilis
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Procédez comme suit pour créer une vue personnalisée affichant les qtrees presque pleins, puis planifier la génération d'un rapport pour cette vue.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *Qtrees*.
@@ -50,6 +53,7 @@ Le rapport est envoyé immédiatement sous forme de test. Ensuite, le rapport g�
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En fonction des résultats présentés dans ce rapport, il est possible de modifier les limites matérielles et logicielles du disque (si elles sont définies) ou d'équilibrer les données sur l'ensemble des qtrees.

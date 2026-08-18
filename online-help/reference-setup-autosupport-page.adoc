@@ -15,6 +15,7 @@ La page AutoSupport permet d'activer périodique AutoSupport ou d'envoyer un mes
 
 
 
+[[information-area]]
 == Zone d'information
 
 * *ID système*
@@ -25,6 +26,7 @@ Affiche l'ID système de ce serveur Unified Manager.
 
 
 
+[[on-demand-autosupport-area]]
 == Zone AutoSupport à la demande
 
 Vous pouvez générer et envoyer un message à la demande au support technique, à un destinataire d'e-mail spécifique ou aux deux :
@@ -45,6 +47,7 @@ Génère et envoie un message à la demande au support technique, à un destinat
 
 
 
+[[periodic-autosupport-area]]
 == Zone AutoSupport périodique
 
 Vous permet de disposer de messages spécifiques et prédéfinis au support technique pour le diagnostic et la résolution périodiques des problèmes.
@@ -57,6 +60,7 @@ Indique que vous souhaitez activer la fonctionnalité AutoSupport périodique. C
 
 
 
+[[http-proxy-area]]
 == Zone de proxy HTTP
 
 Vous pouvez désigner un proxy pour fournir un accès Internet afin d'envoyer du contenu AutoSupport à l'assistance si votre environnement ne fournit pas un accès direct depuis le serveur Unified Manager.

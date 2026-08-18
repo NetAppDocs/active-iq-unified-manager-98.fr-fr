@@ -15,12 +15,14 @@ Il peut s'avérer nécessaire de redémarrer Unified Manager après avoir apport
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir un accès utilisateur root au serveur Red Hat Enterprise Linux ou CentOS sur lequel Unified Manager est installé.
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous en tant qu'utilisateur root au serveur sur lequel vous souhaitez redémarrer le service Unified Manager.

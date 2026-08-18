@@ -15,6 +15,7 @@ Vous pouvez utiliser la page d'inventaire de la gestion des événements pour af
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -22,6 +23,7 @@ Vous pouvez utiliser la page d'inventaire de la gestion des événements pour af
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La liste des événements est triée par heure détectée, avec les événements les plus récents répertoriés en premier. Vous pouvez cliquer sur un en-tête de colonne pour trier les événements en fonction de cette colonne. Par exemple, vous pouvez trier les événements par colonne État pour afficher les événements par gravité. Si vous recherchez un événement spécifique ou un type d'événement spécifique, vous pouvez utiliser le filtre et les mécanismes de recherche pour affiner la liste des événements qui apparaissent dans la liste.
@@ -37,6 +39,7 @@ La colonne Type d'événement répertorie la source de l'événement. Vous pouve
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Event Management*.

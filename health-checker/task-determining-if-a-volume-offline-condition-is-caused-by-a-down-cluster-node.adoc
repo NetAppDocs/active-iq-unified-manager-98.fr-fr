@@ -15,18 +15,21 @@ Vous pouvez utiliser l'interface utilisateur Web d'Unified Manager pour confirme
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Pour déterminer si la condition de hors ligne du volume est due à une défaillance du nœud d'hébergement et à un basculement de stockage qui a échoué par la suite, effectuez les opérations suivantes :
 
 
 
+[[steps]]
 == Étapes
 
 . Localisez et cliquez sur le lien hypertexte affiché sous SVM dans le volet *Related Devices* de la page de détails *Volume / Santé* du volume hors ligne.
@@ -56,6 +59,7 @@ L'onglet nœuds de la page Cluster / Health details affiche l'état de la paire 
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Une fois que vous avez confirmé que le volume est hors ligne car le nœud hôte est en panne et que le basculement du stockage vers le partenaire de la paire haute disponibilité a échoué, contactez l'administrateur ou l'opérateur approprié pour redémarrer manuellement le nœud d'arrêt et résoudre le problème de basculement du stockage.

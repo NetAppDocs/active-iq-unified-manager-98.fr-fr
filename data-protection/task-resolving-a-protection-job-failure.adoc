@@ -15,18 +15,21 @@ Ce flux de travail fournit un exemple d'identification et de résolution d'une d
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Comme certaines tâches de ce flux de travail nécessitent de vous connecter à l'aide du rôle Administrateur, vous devez connaître les rôles requis pour utiliser diverses fonctionnalités.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Dans ce scénario, vous accédez à la page Tableau de bord pour voir s'il y a des problèmes avec vos tâches de protection. Dans la zone incident de protection, vous remarquez qu'un incident de fin de tâche est survenu, indiquant une erreur d'échec de tâche de protection sur un volume. Vous étudiez cette erreur afin de déterminer la cause possible et la résolution potentielle.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le panneau *protection incidents* de la zone Tableau de bord *incidents et risques non résolus*, vous cliquez sur l'événement *protection travail failed*.

@@ -15,12 +15,14 @@ summary: 'À un moment donné, il peut être nécessaire de modifier le nom d"h�
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir un accès utilisateur root au système Linux sur lequel Unified Manager est installé.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez utiliser le nom d'hôte (ou l'adresse IP de l'hôte) pour accéder à l'interface utilisateur Web Unified Manager. Si vous avez configuré une adresse IP statique pour votre réseau pendant le déploiement, vous avez alors désigné un nom pour l'hôte réseau. Si vous avez configuré le réseau à l'aide de DHCP, le nom d'hôte doit être pris du serveur DNS.
@@ -33,6 +35,7 @@ Si vous modifiez le nom d'hôte dans Unified Manager, vous devez mettre à jour 
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous en tant qu'utilisateur root au système Unified Manager que vous souhaitez modifier.

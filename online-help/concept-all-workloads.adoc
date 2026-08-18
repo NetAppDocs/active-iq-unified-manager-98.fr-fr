@@ -30,12 +30,14 @@ Avec l'option *workloads* > *toutes les charges de travail*, vous pouvez effectu
 
 
 
+[[adding-or-provisioning-storage-workloads]]
 == Ajout ou provisionnement de charges de travail de stockage
 
 Vous pouvez ajouter ou provisionner les charges de travail de stockage aux LUN prises en charge (prise en charge des protocoles iSCSI et FCP), aux partages de fichiers NFS et aux partages SMB.
 
 
 
+[[viewing-and-filtering-workloads]]
 == Afficher et filtrer les workloads
 
 Sur l'écran toutes les charges de travail, vous pouvez afficher toutes les charges de travail de votre data Center ou rechercher des charges de travail de stockage spécifiques en fonction de leurs PSLs ou de leurs noms. Vous pouvez utiliser l'icône de filtre pour entrer des conditions spécifiques à votre recherche. Vous pouvez effectuer une recherche selon différentes conditions de filtre, par exemple par le cluster hôte ou la machine virtuelle de stockage. L'option *Capacity Total* permet de filtrer en fonction de la capacité totale des charges de travail (par Mo). Toutefois, le nombre de workloads renvoyés peut varier car la capacité totale est comparée à un niveau d'octet.
@@ -48,6 +50,7 @@ xref:concept-troubleshooting-workloads-using-the-workload-analyzer.adoc[Dépanna
 
 
 
+[[analyzing-performance-and-capacity-criteria-for-a-workload]]
 == L'analyse des critères de performances et de capacité d'une charge de travail
 
 Vous pouvez afficher les informations de performances d'une charge de travail pour faciliter le dépannage en cliquant sur l'icône du graphique à barres dans la colonne *Affichage des performances*. Pour afficher les graphiques de performances et de capacité sur la page analyse de la charge de travail pour analyser l'objet, cliquez sur le bouton *analyser la charge de travail*.

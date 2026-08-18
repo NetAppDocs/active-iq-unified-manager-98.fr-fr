@@ -15,6 +15,7 @@ Vous pouvez créer un rapport qui affiche l'état des transferts de volume. Vous
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -22,12 +23,14 @@ Vous pouvez créer un rapport qui affiche l'état des transferts de volume. Vous
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Procédez comme suit pour créer une vue personnalisée pour afficher les transferts ayant échoué et les transferts réussis, puis planifier la génération d'un rapport pour cette vue.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.
@@ -45,6 +48,7 @@ Le rapport est envoyé immédiatement sous forme de test. Ensuite, le rapport g�
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En fonction des résultats affichés dans le rapport, vous pouvez étudier l'état du transfert.

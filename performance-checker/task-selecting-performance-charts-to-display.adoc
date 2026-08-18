@@ -15,6 +15,7 @@ La liste déroulante choisir les graphiques vous permet de sélectionner les typ
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet *Counter Charts*, cliquez sur la liste déroulante *Choose charts*.

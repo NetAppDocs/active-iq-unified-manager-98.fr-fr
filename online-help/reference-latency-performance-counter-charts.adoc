@@ -21,12 +21,14 @@ Il existe trois types de graphiques de latence :
 
 
 
+[[latency-total-counter-chart]]
 == Latence - Tableau compteur total
 
 Affiche le nombre de millisecondes nécessaires pour répondre aux demandes des applications. Les valeurs moyennes de latence sont pondérées en E/S.
 
 
 
+[[latency-breakdown-counter-chart]]
 == Latence : tableau des compteurs de détail
 
 Affiche les mêmes données de latence séparées en lecture, écriture et autre latence.
@@ -35,6 +37,7 @@ Cette option de graphique s'applique lorsque l'objet sélectionné est un SVM, u
 
 
 
+[[latency-cluster-components-counter-chart]]
 == Latence - compteur de composants du cluster
 
 Affiche les données de latence par composant du cluster. Cela vous permet d'identifier le composant de cluster responsable de la latence. En passant le curseur sur le graphique, vous pouvez afficher la contribution exacte de latence de chaque composant.
@@ -43,6 +46,7 @@ Cette option de graphique s'applique lorsque l'objet sélectionné est un SVM, u
 
 
 
+[[zoom-view-button]]
 == *Bouton Zoom View*
 
 Affiche une vue agrandie des données du compteur.

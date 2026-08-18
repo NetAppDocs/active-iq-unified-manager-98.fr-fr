@@ -15,6 +15,7 @@ Pour afficher et dépanner les performances des machines virtuelles, vous devez 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Avant d'ajouter ou d'afficher des serveurs vCenter, vérifiez les points suivants :
@@ -30,12 +31,14 @@ Avant d'ajouter ou d'afficher des serveurs vCenter, vérifiez les points suivant
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Pour chaque serveur vCenter ajouté et découvert, Unified Manager collecte les données de configuration, telles que les informations des serveurs vCenter Server et ESXi, le mappage ONTAP, les détails des datastores et le nombre de machines virtuelles hébergées. Elle collecte en outre les mesures de performances des composants.
 
 
 
+[[steps]]
 == Étapes
 
 . Accédez à *VMWARE* > *vCenter* et vérifiez si votre serveur vCenter est disponible dans la liste.
@@ -79,6 +82,7 @@ Ajout de vCenter Server vous permet d'afficher les États suivants. Toutefois, l
 
 
 
+[[results]]
 == Résultats
 
 *Début de la collecte des données du serveur vCenter*

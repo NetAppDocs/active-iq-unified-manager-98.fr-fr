@@ -15,6 +15,7 @@ L'API REST de Active IQ Unified Manager est accessible depuis n'importe quel nav
 
 
 
+[[rest-access]]
 == Accès AU REPOS
 
 Vous pouvez utiliser n'importe quel navigateur web ou plateforme de programmation pouvant émettre des requêtes HTTP pour accéder à l'API REST Unified Manager. Par exemple, une fois connecté à Unified Manager, vous pouvez saisir l'URL dans n'importe quel navigateur pour récupérer les attributs de toutes les stations de gestion, comme le nom de la station de gestion, la clé et l'adresse IP.
@@ -107,6 +108,7 @@ Pour émettre DES requêtes HTTP POST, PATCH et SUPPRESSION à partir d'un navig
 
 
 
+[[authentication]]
 == Authentification
 
 Unified Manager prend en charge le schéma d'authentification HTTP de base pour les API. Pour sécuriser les flux d'informations (demande et réponse), les API REST sont accessibles uniquement via HTTPS. Le serveur d'API fournit un certificat SSL auto-signé à tous les clients pour la vérification du serveur. Ce certificat peut être remplacé par un certificat personnalisé (ou un certificat CA).

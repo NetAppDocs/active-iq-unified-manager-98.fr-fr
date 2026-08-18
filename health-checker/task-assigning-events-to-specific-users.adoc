@@ -15,6 +15,7 @@ Vous pouvez attribuer des événements non attribués à vous-même ou à d'autr
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Le nom et l'ID e-mail de l'utilisateur doivent être configurés correctement.
@@ -23,6 +24,7 @@ Vous pouvez attribuer des événements non attribués à vous-même ou à d'autr
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Event Management*.

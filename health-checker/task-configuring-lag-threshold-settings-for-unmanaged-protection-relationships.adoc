@@ -15,12 +15,14 @@ Vous pouvez modifier les paramètres de seuil d'avertissement de décalage globa
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le temps de décalage ne doit pas dépasser l'intervalle de planification de transfert défini. Par exemple, si la planification de transfert est horaire, la durée de décalage ne doit pas dépasser une heure. Le seuil de décalage indique un pourcentage que le temps de décalage ne doit pas dépasser. Dans l'exemple d'une heure, si le seuil de décalage est défini sur 150 %, vous recevrez un événement lorsque le temps de décalage est supérieur à 1.5 heures.
@@ -29,6 +31,7 @@ Les paramètres décrits dans cette tâche sont appliqués globalement à toutes
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *seuils d'événements* > *relation*.

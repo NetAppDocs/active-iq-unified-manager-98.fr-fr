@@ -15,6 +15,7 @@ La boîte de dialogue Volume permet d'afficher la liste des copies Snapshot. Vou
 
 
 
+[[list-view]]
 == Vue liste
 
 La vue liste affiche des informations sur les copies Snapshot du volume sous forme de tableau. Vous pouvez utiliser les filtres de colonne pour personnaliser les données affichées.
@@ -43,6 +44,7 @@ Affiche les applications qui dépendent de la copie Snapshot. Les valeurs possib
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes :

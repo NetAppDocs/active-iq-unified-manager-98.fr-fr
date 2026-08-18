@@ -15,18 +15,21 @@ Vous pouvez configurer les alertes en cas d'événements de performance individu
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 L'exemple ci-dessous montre comment créer un événement pour toutes les latence critique, les IOPS et les Mo/sec. Vous pouvez utiliser cette même méthodologie pour sélectionner des événements à partir de tous les compteurs de performances et pour tous les événements d'avertissement.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Alert Setup*.

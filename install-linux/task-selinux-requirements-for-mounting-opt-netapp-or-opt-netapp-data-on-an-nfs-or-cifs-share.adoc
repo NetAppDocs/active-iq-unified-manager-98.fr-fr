@@ -15,6 +15,7 @@ Si vous prévoyez de monter `/opt/netapp` ou `/opt/netapp/data` Sur un périphé
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Si prévoyez de monter `/opt/netapp` ou `/opt/netapp/data` À partir de n'importe quel endroit autre que le système de fichiers racine et que SELinux est activé dans votre environnement, vous devez définir le contexte correct pour les répertoires montés. Suivez ces deux étapes pour configurer et confirmer le contexte SELinux correct.

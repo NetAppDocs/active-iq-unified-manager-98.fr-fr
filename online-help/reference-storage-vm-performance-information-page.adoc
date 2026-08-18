@@ -15,6 +15,7 @@ Utilisez la page Storage VM/Performance information pour afficher la liste des a
 
 
 
+[[storage-vm-attributes]]
 == Attributs des VM de stockage
 
 * *Adresse IP*

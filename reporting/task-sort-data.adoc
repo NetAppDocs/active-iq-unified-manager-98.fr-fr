@@ -15,6 +15,7 @@ Pour trier les résultats, cliquez sur une colonne et indiquez l'ordre croissant
 
 
 
+[[steps]]
 == Étapes
 
 . Cliquez sur le haut d'une colonne pour trier les résultats afin que les informations les plus importantes apparaissent en haut de la vue.

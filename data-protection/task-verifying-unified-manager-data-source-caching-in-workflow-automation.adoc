@@ -15,12 +15,14 @@ Vous pouvez déterminer si la mise en cache des sources de données Unified Mana
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Pour effectuer cette tâche, vous devez être affecté soit au rôle Administrateur, soit au rôle architecte dans Workflow Automation.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'interface utilisateur Workflow Automation, sélectionnez *exécution* > *sources de données*.

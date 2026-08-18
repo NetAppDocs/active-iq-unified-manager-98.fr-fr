@@ -15,6 +15,7 @@ Unified Manager recherche automatiquement un nouveau fichier de règles Active I
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Le reporting sur les événements Active IQ doit être activé.
@@ -23,12 +24,14 @@ Unified Manager recherche automatiquement un nouveau fichier de règles Active I
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Il est recommandé de télécharger un nouveau fichier de règles environ une fois par mois pour assurer la protection de vos systèmes de stockage et leur fonctionnement optimal. Le fichier de règles se trouve à l'adresse suivante : http://mysupport.netapp.com/NOW/public/unified_manager/bin/secure_rules.zip[]
 
 
 
+[[steps]]
 == Étapes
 
 . Sur un ordinateur disposant d'un accès réseau, accédez au site de support NetApp et téléchargez les règles en vigueur `.zip` fichier.
@@ -43,6 +46,7 @@ Ce processus peut prendre quelques minutes.
 
 
 
+[[results]]
 == Résultats
 
 Le fichier de règles est décompressé sur le serveur Unified Manager. Une fois que vos clusters gérés ont généré un fichier AutoSupport après minuit, Unified Manager vérifie les clusters par rapport au fichier de règles et génère de nouveaux risques et incidents, le cas échéant.

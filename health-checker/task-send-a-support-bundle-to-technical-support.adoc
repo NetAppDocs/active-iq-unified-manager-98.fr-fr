@@ -15,6 +15,7 @@ Ce flux de travail explique comment générer, récupérer et envoyer un pack à
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Unified Manager stocke un maximum de deux packs de support générés simultanément.

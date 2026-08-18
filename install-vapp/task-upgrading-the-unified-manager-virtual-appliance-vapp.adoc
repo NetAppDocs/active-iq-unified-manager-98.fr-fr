@@ -15,6 +15,7 @@ Vous pouvez mettre à niveau l'appliance virtuelle Unified Manager des versions 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vérifiez les points suivants :
@@ -40,6 +41,7 @@ xref:reference-vmware-software-and-installation-requirements.adoc[Conditions req
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Unified Manager n'est pas disponible lors du processus de mise à niveau. Pour effectuer toute opération en cours d'exécution, vous devez effectuer la mise à niveau de Unified Manager.
@@ -48,6 +50,7 @@ Si vous avez associé Workflow Automation et Unified Manager, vous devez mettre 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans vSphere client, cliquez sur *Accueil* > *Inventaire* > *VM et modèles*.
@@ -81,6 +84,7 @@ Vous êtes automatiquement déconnecté de la console de maintenance.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Vous pouvez vous connecter à l'interface utilisateur Web pour utiliser la version mise à niveau d'Unified Manager. Notez que vous devez attendre la fin du processus de détection avant d'effectuer une tâche dans l'interface utilisateur.

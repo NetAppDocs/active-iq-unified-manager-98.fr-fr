@@ -15,18 +15,21 @@ Vous pouvez modifier les relations de protection existantes pour modifier le tau
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les volumes sélectionnés doivent être des destinations de relation de protection. Vous ne pouvez pas modifier les relations lorsque les volumes source, les volumes de partage de charge ou les volumes qui ne sont pas de destination d'une relation SnapMirror ou SnapVault sont sélectionnés.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Volume Relationship*, sélectionnez dans la liste des volumes un ou plusieurs volumes du même SVM pour lesquels vous souhaitez modifier les paramètres de relation, puis sélectionnez *Edit* dans la barre d'outils.

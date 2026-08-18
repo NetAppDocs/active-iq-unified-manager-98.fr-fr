@@ -15,6 +15,7 @@ Vous pouvez surveiller les problèmes de connectivité dans votre configuration 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Les clusters locaux et distants de la configuration MetroCluster doivent être ajoutés à Active IQ Unified Manager.
@@ -23,6 +24,7 @@ Vous pouvez surveiller les problèmes de connectivité dans votre configuration 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez utiliser les informations affichées sur la page Cluster / Health Details pour corriger tout problème de connectivité. Par exemple, si la connectivité entre le nœud et le commutateur d'un cluster est inactive, l'icône suivante est affichée :
@@ -37,6 +39,7 @@ L'onglet MetroCluster Connectivity n'est affiché que pour les clusters dans une
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *clusters*.
@@ -52,6 +55,7 @@ La topologie de la configuration MetroCluster s'affiche dans la zone d'objet clu
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Si vous détectez les problèmes de connectivité dans votre configuration MetroCluster, vous devez vous connecter à System Manager ou accéder à l'interface de ligne de commandes de ONTAP pour résoudre les problèmes.

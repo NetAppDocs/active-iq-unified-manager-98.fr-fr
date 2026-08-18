@@ -15,12 +15,14 @@ Vous pouvez spécifier la valeur du délai d'inactivité pour Unified Manager af
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Ce paramètre affecte toutes les sessions utilisateur connectées.
@@ -32,6 +34,7 @@ Cette option n'est pas disponible si vous avez activé l'authentification SAML (
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *Paramètres de fonction*.

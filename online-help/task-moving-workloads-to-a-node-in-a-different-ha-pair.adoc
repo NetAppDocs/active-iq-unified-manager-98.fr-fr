@@ -15,6 +15,7 @@ Unified Manager permet d'identifier un agrégat sur un nœud d'une autre paire h
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -29,6 +30,7 @@ Ce processus de résolution des problèmes ne peut pas être utilisé si le clus
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le déplacement de charges de travail hautes performances vers un agrégat d'un nœud présentant une capacité plus élevée en termes de performances permet aux charges de travail des deux nœuds d'être plus efficaces. Cette procédure vous permet d'identifier les ressources suivantes pour déplacer les charges de travail haute performance vers un nœud qui dispose de plus de capacité de performances disponible sur une autre paire haute disponibilité :
@@ -40,6 +42,7 @@ Le déplacement de charges de travail hautes performances vers un agrégat d'un 
 
 
 
+[[steps]]
 == Étapes
 
 . Identifiez les nœuds qui font partie d'une autre paire haute disponibilité sur le même cluster :
@@ -104,6 +107,7 @@ Vous pouvez effectuer l'opération de déplacement en utilisant ONTAP System Man
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Après quelques jours, vous pouvez vérifier si vous recevez le même type d'événements du même nœud ou de l'agrégat.

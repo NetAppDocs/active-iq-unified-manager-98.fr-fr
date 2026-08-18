@@ -21,6 +21,7 @@ Vous pouvez configurer des paramètres de seuil pour la capacité, les copies Sn
 
 
 
+[[capacity-area]]
 == Surface de capacité
 
 La zone capacité vous permet de définir les conditions de seuil de capacité de volume suivantes :
@@ -47,6 +48,7 @@ Spécifie le nombre de jours restants avant que le volume n'atteigne sa capacit�
 
 
 
+[[snapshot-copies]]
 == Copies Snapshot
 
 La zone copies Snapshot vous permet de définir les conditions de seuil suivantes pour les copies Snapshot dans le volume.
@@ -67,6 +69,7 @@ Spécifie le nombre de copies Snapshot sur un volume qui sont considérées comm
 
 
 
+[[qtree-quota-area]]
 == Zone de quota qtree
 
 La zone quota qtree permet de définir les conditions suivantes de seuil de quota qtree pour les volumes sélectionnés :
@@ -83,6 +86,7 @@ Spécifie le pourcentage auquel un volume est considéré comme suralloué par d
 
 
 
+[[growth-area]]
 == Zone de croissance
 
 La zone de croissance vous permet de définir la condition de seuil suivante pour la croissance du volume :
@@ -108,6 +112,7 @@ Si vous modifiez la sensibilité du taux de croissance pour les volumes au nivea
 
 
 
+[[inodes-area]]
 == Zone des inodes
 
 La zone des inodes vous permet de définir les conditions de seuil suivantes pour les inodes :
@@ -130,6 +135,7 @@ Vous pouvez également utiliser les curseurs pour définir la valeur seuil.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes pour un volume sélectionné :

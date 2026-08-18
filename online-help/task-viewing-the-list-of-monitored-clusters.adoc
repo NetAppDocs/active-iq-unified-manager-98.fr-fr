@@ -15,18 +15,21 @@ Vous pouvez utiliser la page Cluster Setup pour afficher l'inventaire de vos clu
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La liste des clusters est triée par la colonne niveau de gravité de l'état de collecte. Vous pouvez cliquer sur un en-tête de colonne pour trier les clusters par différentes colonnes.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Cluster Setup*.

@@ -15,6 +15,7 @@ Utilisez cette page pour afficher la liste des attributs physiques et logiques d
 
 
 
+[[volume-attributes]]
 == Attributs de volume
 
 * *Type*

@@ -15,12 +15,14 @@ Avant de mettre à niveau Unified Manager, téléchargez le fichier de mise à n
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez disposer des identifiants de connexion pour le site du support NetApp.
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous au site de support NetApp : https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["Site de support NetApp"^]

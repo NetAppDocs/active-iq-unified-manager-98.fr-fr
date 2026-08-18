@@ -15,6 +15,7 @@ Dans la page Volume relations, vous pouvez resynchroniser une relation pour effe
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Dans la page Volume relations, vous pouvez resynchroniser une relation pour effe
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Volume relations*, sélectionnez un ou plusieurs volumes avec des relations suspendues et, dans la barre d'outils, cliquez sur *Resynchroniser*.

@@ -15,12 +15,14 @@ Vous pouvez trier toutes les données sur les pages performances de l'inventaire
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La colonne sélectionnée pour le tri est indiquée par un nom d'en-tête de colonne en surbrillance et une icône de flèche indiquant la direction de tri à droite du nom. Une flèche vers le haut indique l'ordre croissant ; une flèche vers le bas indique l'ordre décroissant. L'ordre de tri par défaut est par *Status* (criticité de l'événement) dans l'ordre décroissant, avec les événements de performance les plus critiques répertoriés en premier.
 
 
 
+[[steps]]
 == Étapes
 
 . Vous pouvez cliquer sur un nom de colonne pour activer ou désactiver l'ordre de tri de la colonne dans l'ordre croissant ou décroissant.

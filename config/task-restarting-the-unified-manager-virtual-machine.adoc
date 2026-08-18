@@ -15,6 +15,7 @@ Vous pouvez redémarrer le serveur virtuel à partir de la console de maintenanc
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 L'appliance virtuelle est sous tension.
@@ -23,12 +24,14 @@ En tant qu'utilisateur de maintenance, vous êtes connecté à la console de mai
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez également redémarrer la machine virtuelle à partir de vSphere en utilisant l'option **redémarrer invité**. Pour plus d'informations, consultez la documentation VMware.
 
 
 
+[[steps]]
 == Étapes
 
 . Accéder à la console de maintenance.

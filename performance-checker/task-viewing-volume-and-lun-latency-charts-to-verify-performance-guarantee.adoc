@@ -15,12 +15,14 @@ Vous pouvez afficher les volumes et les LUN que vous avez souscrits au programme
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La garantie de latence est une valeur inférieure à la milliseconde par opération, qui ne doit pas être dépassée. Elle est basée sur une moyenne horaire et non sur la période de collecte de performances de cinq minutes par défaut.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la vue *Performance : tous les volumes* ou *Performance : toutes les LUN*, sélectionnez le volume ou la LUN qui vous intéresse.

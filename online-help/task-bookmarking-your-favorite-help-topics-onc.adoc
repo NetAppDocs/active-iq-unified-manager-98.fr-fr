@@ -15,6 +15,7 @@ Dans l'onglet Favoris de l'aide, vous pouvez ajouter fréquemment des rubriques 
 
 
 
+[[steps]]
 == Étapes
 
 . Accédez à la rubrique d'aide que vous souhaitez ajouter en tant que favori.

@@ -15,12 +15,14 @@ Par défaut, Unified Manager stocke les données d'événements et de performanc
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez modifier les périodes de conservation de ces deux types de données dans la page conservation des données. Ces paramètres ont un impact sur la conservation des données depuis tous les clusters qui surveillent cette instance de Unified Manager.
@@ -41,6 +43,7 @@ La durée de conservation doit être réduite uniquement si votre espace est ins
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Policies* > *Data Retention*.

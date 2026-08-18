@@ -15,12 +15,14 @@ Ce flux de travail fournit un exemple de l'évaluation et de la résolution d'un
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les volumes peuvent être signalés hors ligne pour plusieurs raisons :
@@ -35,6 +37,7 @@ Vous pouvez utiliser la page d'inventaire Event Management et les pages Cluster/
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Event Management*.

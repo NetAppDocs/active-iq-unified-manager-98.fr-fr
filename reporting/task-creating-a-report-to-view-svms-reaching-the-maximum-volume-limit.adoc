@@ -15,6 +15,7 @@ Vous pouvez créer un rapport pour trouver des SVM atteignant la limite du volum
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -22,12 +23,14 @@ Vous pouvez créer un rapport pour trouver des SVM atteignant la limite du volum
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Procédez comme suit pour créer une vue personnalisée affichant les VM de stockage qui atteignent la limite maximale du volume, puis planifiez la génération d'un rapport pour cette vue.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *Storage VM*.
@@ -45,6 +48,7 @@ Le rapport est envoyé immédiatement sous forme de test. Ensuite, le rapport g�
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En fonction des résultats présentés dans ce rapport, vous pouvez équilibrer les volumes affectés aux machines virtuelles de stockage ou, si possible, utiliser ONTAP System Manager pour modifier le nombre maximal de volumes autorisés.

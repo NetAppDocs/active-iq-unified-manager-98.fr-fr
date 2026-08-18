@@ -15,6 +15,7 @@ Pour accéder rapidement à un objet spécifique, vous pouvez utiliser le champ 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Pour effectuer cette tâche, vous devez avoir l'un des rôles suivants : opérateur, administrateur d'applications ou administrateur de stockage.
@@ -23,6 +24,7 @@ Pour accéder rapidement à un objet spécifique, vous pouvez utiliser le champ 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Lors de l'utilisation de la valeur de menu déroulant « tous », la recherche globale affiche le nombre total de résultats trouvés dans toutes les catégories d'objets, avec un maximum de 25 résultats de recherche pour chaque catégorie d'objets. Vous pouvez sélectionner un type d'objet spécifique dans le menu déroulant pour affiner la recherche dans un type d'objet spécifique. Dans ce cas, la liste retournée n'est pas limitée aux 25 objets supérieurs.
@@ -55,6 +57,7 @@ Les ports et les LIFs ne sont pas interrogeables dans la barre de recherche glob
 ====
 
 
+[[steps]]
 == Étapes
 
 . Sélectionnez un type d'objet dans le menu pour affiner les résultats de la recherche pour un seul type d'objet.

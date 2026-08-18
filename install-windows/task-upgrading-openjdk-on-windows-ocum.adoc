@@ -15,18 +15,21 @@ Vous pouvez mettre à niveau vers une version plus récente d'OpenJDK sur le ser
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez disposer des privilèges d'administrateur Windows pour le système sur lequel Unified Manager est installé.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez mettre à jour les versions OpenJDK dans les familles de versions. Par exemple, vous pouvez effectuer une mise à niveau d'OpenJDK 11.0.6 vers OpenJDK 11.0.7, mais vous ne pouvez pas effectuer une mise à jour directe d'OpenJDK 11 vers OpenJDK 12.
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous en tant qu'utilisateur administrateur sur la machine hôte Unified Manager.

@@ -15,6 +15,7 @@ Vous pouvez étendre la protection à partir d'une relation existante en créant
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez étendre la protection à partir d'une relation existante en créant
 
 
 
+[[steps]]
 == Étapes
 
 . Cliquez sur *protection* > *relations de volume*.

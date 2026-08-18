@@ -15,12 +15,14 @@ Les événements liés à la plateforme Active IQ sont générés et affichés p
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Lorsque vous désactivez cette fonctionnalité, Unified Manager cesse de recevoir immédiatement les événements liés à la plateforme Active IQ.
@@ -29,6 +31,7 @@ Lorsque vous activez cette fonctionnalité, Unified Manager commence à recevoir
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *Paramètres de fonction*.

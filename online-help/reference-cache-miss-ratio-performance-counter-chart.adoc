@@ -19,6 +19,7 @@ Le bas de la page du graphique affiche des informations sur le rapport de manque
 
 
 
+[[cache-miss-ratio-total-counter-chart]]
 == Taux de Miss cache - compteur total
 
 Affiche le pourcentage de demandes de lecture des applications client renvoyées à partir du disque au lieu d'être renvoyées à partir du cache.
@@ -27,6 +28,7 @@ Cette option de graphique s'applique uniquement lorsque l'objet sélectionné es
 
 
 
+[[zoom-view-button]]
 == *Bouton Zoom View*
 
 Affiche une vue agrandie des données du compteur.

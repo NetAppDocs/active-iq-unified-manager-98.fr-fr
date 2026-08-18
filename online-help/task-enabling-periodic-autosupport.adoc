@@ -15,12 +15,14 @@ Vous pouvez choisir de envoyer automatiquement des messages AutoSupport spécifi
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez être connecté en tant qu'utilisateur de maintenance.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Active IQ est une application web hébergée sur le site de support NetApp accessible via un navigateur. AutoSupport doit être activé et configuré pour que les données soient renvoyées à NetApp.
@@ -29,6 +31,7 @@ https://mysupport.netapp.com/info/web/AboutAIQ.html["NetApp Active IQ"]
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *AutoSupport*.

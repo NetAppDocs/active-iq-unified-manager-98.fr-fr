@@ -15,18 +15,21 @@ Si vous devez augmenter la quantité d'espace disque pour la base de données Un
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez disposer des privilèges d'administrateur Windows.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Nous vous recommandons de sauvegarder la base de données Unified Manager avant d'ajouter de l'espace disque.
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous en tant qu'administrateur au serveur Windows sur lequel vous souhaitez ajouter de l'espace disque.
@@ -59,7 +62,7 @@ Sur une machine virtuelle, augmentez la taille d'une partition de disque.
  a| 
 Suivez les étapes du sujet VMware :
 
-https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1004071["Augmentation de la taille d'une partition de disque"^]
+https://knowledge.broadcom.com/external/article/323136/increasing-the-size-of-a-virtual-disk-pa.html["Augmentation de la taille d'une partition de disque"^]
 
 |===
 

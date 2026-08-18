@@ -17,6 +17,7 @@ La liste des règles de seuils de performances est triée par ordre alphabétiqu
 
 
 
+[[filter-and-search-bar]]
 == Filtre et barre de recherche
 
 Le bouton *Filtering* vous permet de raffiner la liste des stratégies de seuil en affichant uniquement les stratégies qui correspondent à certains critères.
@@ -25,6 +26,7 @@ Le bouton *Search* vous permet de rechercher certaines polices en saisissant des
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Créer*
@@ -47,6 +49,7 @@ Supprime la stratégie de seuil de performances que vous avez sélectionnée. La
 
 
 
+[[threshold-policies-list]]
 == Liste Threshold Policies
 
 * *Nom de la politique*

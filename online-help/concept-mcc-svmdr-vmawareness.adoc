@@ -19,6 +19,7 @@ Vous pouvez également afficher les volumes NAS ou les LUN dans une configuratio
 
 
 
+[[viewing-datastores-in-metrocluster-configuration]]
 == Affichage des datastores dans la configuration MetroCluster
 
 Notez les prérequis suivants avant de afficher les datastores dans une configuration MetroCluster :
@@ -43,6 +44,7 @@ Pour afficher les datastores, procédez comme suit :
 
 
 
+[[viewing-datastores-in-storage-vm-disaster-recovery-configuration]]
 == Affichage des datastores dans la configuration de reprise d'activité des machines virtuelles de stockage
 
 Notez les prérequis suivants avant de visualiser les datastores dans une configuration de reprise d'activité de VM de stockage :
@@ -78,6 +80,7 @@ Pour afficher les datastores, procédez comme suit :
 
 
 
+[[unsupported-scenarios]]
 == Scénarios non pris en charge
 
 * Pour une configuration MetroCluster, noter les limites suivantes :

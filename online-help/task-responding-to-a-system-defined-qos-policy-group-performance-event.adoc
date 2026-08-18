@@ -15,6 +15,7 @@ Unified Manager génère des événements d'avertissement de stratégie de quali
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -23,6 +24,7 @@ Unified Manager génère des événements d'avertissement de stratégie de quali
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Unified Manager génère des événements d'avertissement pour les violations de règles de qualité de service lorsque le débit de la charge de travail a dépassé le paramètre de règle de QoS défini pour chaque période de collecte des performances pendant l'heure précédente. Le débit de la charge de travail peut dépasser le seuil de qualité de service pendant une courte période seulement au cours de chaque période de collecte, mais Unified Manager affiche uniquement le débit « moyen » pendant la période de collecte sur le graphique. Vous pouvez donc recevoir des événements de qualité de service alors que le débit d'une charge de travail n'a pas dépassé le seuil des règles affiché dans le tableau.
@@ -38,6 +40,7 @@ Vous pouvez utiliser System Manager ou les commandes ONTAP pour gérer les « po
 
 
 
+[[steps]]
 == Étapes
 
 . Affichez la page *Event* details pour afficher des informations sur l'événement.

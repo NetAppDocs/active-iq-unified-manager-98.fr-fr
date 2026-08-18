@@ -15,6 +15,7 @@ Le signal sonore de notification (image:../media/notification-bell.png[""]) Dans
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La liste des événements actifs permet de visualiser le nombre total d'événements critiques, d'erreur, d'avertissement et de mise à niveau sur tous les clusters. Cette liste comprend les événements des 7 derniers jours et n'inclut pas les événements d'information. Vous pouvez cliquer sur un lien pour afficher la liste des événements qui vous intéressent le plus.
@@ -23,6 +24,7 @@ Notez que lorsqu'un cluster est inaccessible, Unified Manager affiche ces inform
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la barre de menus, cliquez sur image:../media/notification-bell.png[""].

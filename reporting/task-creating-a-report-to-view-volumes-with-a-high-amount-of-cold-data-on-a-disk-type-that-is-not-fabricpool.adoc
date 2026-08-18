@@ -15,6 +15,7 @@ Vous pouvez créer un rapport pour afficher les volumes contenant une quantité 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -22,12 +23,14 @@ Vous pouvez créer un rapport pour afficher les volumes contenant une quantité 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Procédez comme suit pour créer une vue personnalisée pour les volumes contenant une quantité importante de données inactives sur un agrégat non compatible avec FabricPool, puis planifier la génération d'un rapport pour cette vue.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.
@@ -54,6 +57,7 @@ Le rapport est envoyé immédiatement sous forme de test. Ensuite, le rapport g�
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En fonction des résultats affichés dans ce rapport, vous pouvez trouver des volumes qui présentent de bons candidats à déplacer vers des agrégats FabricPool.

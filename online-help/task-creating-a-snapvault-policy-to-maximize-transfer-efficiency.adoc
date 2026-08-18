@@ -15,6 +15,7 @@ Vous pouvez créer une nouvelle règle SnapVault afin de définir la priorité d
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -24,6 +25,7 @@ Vous pouvez créer une nouvelle règle SnapVault afin de définir la priorité d
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *SnapVault* de la boîte de dialogue *configurer la protection*, cliquez sur le lien *Créer une stratégie* dans la zone *Paramètres de relation*.

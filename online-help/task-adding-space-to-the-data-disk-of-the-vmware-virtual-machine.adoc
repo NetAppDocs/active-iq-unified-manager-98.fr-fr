@@ -15,6 +15,7 @@ Si vous devez augmenter la quantité d'espace sur le disque de données de la ba
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir accès au client vSphere.
@@ -24,12 +25,14 @@ Si vous devez augmenter la quantité d'espace sur le disque de données de la ba
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Nous vous recommandons de sauvegarder votre machine virtuelle avant d'augmenter la taille des disques virtuels.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le client vSphere, sélectionnez la machine virtuelle Unified Manager, puis ajoutez de la capacité de disque aux données `disk 3`. Pour plus de détails, consultez la documentation VMware.

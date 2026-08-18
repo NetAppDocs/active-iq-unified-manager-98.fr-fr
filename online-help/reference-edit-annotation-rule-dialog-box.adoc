@@ -35,6 +35,7 @@ Affiche la liste des conditions de la règle d'annotation. Vous pouvez modifier 
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Enregistrer*

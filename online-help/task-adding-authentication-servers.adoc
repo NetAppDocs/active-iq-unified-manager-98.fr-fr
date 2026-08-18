@@ -15,6 +15,7 @@ Vous pouvez ajouter des serveurs d'authentification et activer l'authentificatio
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Les informations suivantes doivent être disponibles :
@@ -29,12 +30,14 @@ Vous pouvez ajouter des serveurs d'authentification et activer l'authentificatio
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Si le serveur d'authentification que vous ajoutez fait partie d'une paire haute disponibilité (HA) (utilisant la même base de données), vous pouvez également ajouter le serveur d'authentification partenaire. Cela permet au serveur de gestion de communiquer avec le partenaire lorsque l'un des serveurs d'authentification est inaccessible.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *authentification à distance*.

@@ -15,18 +15,21 @@ Depuis la vue Santé : tous les agrégats, vous pouvez surveiller votre inventai
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez afficher des informations détaillées, telles que la capacité et la configuration de l'agrégat, ou encore les informations sur le disque depuis la page de détails de l'agrégat/de l'intégrité. Vous pouvez utiliser ces détails avant de configurer les paramètres de seuil si nécessaire.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *Aggregates*.

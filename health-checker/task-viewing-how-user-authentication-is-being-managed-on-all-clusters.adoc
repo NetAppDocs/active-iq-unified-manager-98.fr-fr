@@ -15,6 +15,7 @@ La page sécurité affiche les types d'authentification utilisés pour authentif
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Dashboard*.
@@ -26,6 +27,7 @@ La page sécurité affiche les types d'authentification utilisés pour authentif
 
 
 
+[[results]]
 == Résultats
 
 Si certains utilisateurs accèdent au système à l'aide d'une méthode non sécurisée ou si cette méthode n'est pas recommandée par NetApp, vous pouvez la désactiver.

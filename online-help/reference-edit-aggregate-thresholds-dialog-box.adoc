@@ -24,6 +24,7 @@ Les valeurs de seuil ne s'appliquent pas à l'agrégat racine du nœud.
 ====
 
 
+[[capacity-area]]
 == Surface de capacité
 
 La zone capacité vous permet de définir les conditions suivantes de seuil de capacité globale :
@@ -58,6 +59,7 @@ Spécifie le nombre de jours restants avant que l'agrégat n'atteigne sa capacit
 
 
 
+[[growth-area]]
 == Zone de croissance
 
 La zone de croissance vous permet de définir une condition de seuil de croissance globale suivante :
@@ -83,6 +85,7 @@ Si vous modifiez la sensibilité au taux de croissance des agrégats au niveau d
 
 
 
+[[snapshot-copies-area]]
 == Zone des copies Snapshot
 
 La zone copies Snapshot vous permet de définir les conditions de seuil de réserve Snapshot suivantes :
@@ -98,6 +101,7 @@ Vous pouvez également utiliser le curseur pour définir la valeur du seuil.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes pour un agrégat sélectionné :

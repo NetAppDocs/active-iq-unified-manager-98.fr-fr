@@ -15,18 +15,21 @@ Vous pouvez modifier des règles d'annotation pour modifier les groupes de condi
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les annotations sont dissociées des objets de stockage lorsque vous modifiez les règles d'annotation associées.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Annotations*.

@@ -15,6 +15,7 @@ Vous pouvez filtrer les données de page d'inventaire dans Unified Manager pour 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Utilisez *Filtering* pour personnaliser la vue de grille en fonction de vos préférences. Les options de filtre disponibles sont basées sur le type d'objet affiché dans la grille. Si des filtres sont actuellement appliqués, le nombre de filtres appliqués s'affiche à droite du bouton filtre.
@@ -61,6 +62,7 @@ Vous pouvez ajouter des filtres à l'aide du panneau filtrage.
 
 
 
+[[filtering-example]]
 == Exemple de filtrage
 
 L'illustration montre le panneau filtrage avec trois filtres. Le bouton *+Ajouter filtre* s'affiche lorsque vous avez moins de quatre filtres que le maximum.

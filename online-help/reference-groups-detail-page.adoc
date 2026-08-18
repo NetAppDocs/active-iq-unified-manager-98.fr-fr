@@ -15,6 +15,7 @@ Dans la page Détails des groupes, vous pouvez afficher les détails d'un groupe
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Afficher les groupes*
@@ -37,6 +38,7 @@ Vous permet de naviguer jusqu'à la page actions de groupe, qui affiche les acti
 
 
 
+[[summary-area]]
 == Zone de résumé
 
 Vous pouvez afficher les détails de groupe suivants :

@@ -21,12 +21,14 @@ Le bas de la page du graphique affiche des informations sur la capacité de perf
 
 
 
+[[available-iops-total-counter-chart]]
 == IOPS disponibles : tableau compteur total
 
 Affiche le nombre d'opérations d'entrée/sortie par seconde qui sont actuellement disponibles (libres) sur l'objet de stockage sélectionné. Ce nombre est dû à l'soustraction des IOPS actuellement utilisées par rapport aux IOPS totales que Unified Manager calcule que l'objet peut exécuter.
 
 
 
+[[zoom-view-button]]
 == *Bouton Zoom View*
 
 Affiche une vue agrandie des données du compteur.

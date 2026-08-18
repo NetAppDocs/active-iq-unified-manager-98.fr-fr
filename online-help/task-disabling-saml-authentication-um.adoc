@@ -15,6 +15,7 @@ Vous pouvez désactiver l'authentification SAML lorsque vous souhaitez arrêter 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Une fois l'authentification SAML désactivée, les utilisateurs locaux et les utilisateurs de maintenance pourront accéder à l'interface utilisateur graphique en plus des utilisateurs distants configurés.
@@ -28,6 +29,7 @@ Unified Manager est redémarré automatiquement après la désactivation de l'au
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *authentification SAML*.
@@ -41,12 +43,14 @@ Un message s'affiche pour confirmer que vous souhaitez terminer la configuration
 
 
 
+[[results]]
 == Résultats
 
 Lors de la prochaine tentative d'accès à l'interface graphique Unified Manager, les utilisateurs distants vont entrer leurs identifiants dans la page de connexion de Unified Manager au lieu de la page de connexion IDP.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Accédez à votre IDP et supprimez l'URI du serveur Unified Manager et les métadonnées.

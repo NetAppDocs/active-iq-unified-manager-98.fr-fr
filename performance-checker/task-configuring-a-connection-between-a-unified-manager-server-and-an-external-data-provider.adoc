@@ -15,6 +15,7 @@ Unified Manager peut envoyer les données relatives aux performances du cluster 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Un ID utilisateur doit être autorisé à vous connecter à la console de maintenance du serveur Unified Manager.
@@ -46,12 +47,14 @@ Si vous définissez l'intervalle de collecte des performances d'Unified Manager 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez configurer une connexion entre un serveur Unified Manager et un serveur de fournisseur de données externe.
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous en tant qu'utilisateur de maintenance à la console de maintenance du serveur Unified Manager.
@@ -123,6 +126,7 @@ Activer/désactiver
 
 
 
+[[results]]
 == Résultats
 
 Une fois la connexion configurée, les données de performances sélectionnées sont envoyées au serveur de destination à l'intervalle de temps spécifié. L'affichage des mesures dans l'outil externe prend quelques minutes. Vous devrez peut-être actualiser votre navigateur pour afficher les nouvelles mesures dans la hiérarchie des mesures.

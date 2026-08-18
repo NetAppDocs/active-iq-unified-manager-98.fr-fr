@@ -15,6 +15,7 @@ Vous pouvez créer des règles pour spécifier l'adresse e-mail en fonction du q
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez créer des règles pour spécifier l'adresse e-mail en fonction du q
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous devez définir les règles pour les adresses e-mail de quota et les saisir dans l'ordre dans lequel vous souhaitez les exécuter. Par exemple, si vous souhaitez utiliser l'adresse e-mail qtree1@xyz.com pour recevoir des notifications sur les violations de quota pour qtre1 et utiliser l'adresse e-mail admin@xyz.com pour tous les autres qtrees, les règles doivent être répertoriées dans l'ordre suivant :
@@ -37,6 +39,7 @@ SI ($USER_OR_GROUP == * ), ALORS $USER_OR_GROUP@$DOMAIN
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *quota Email Rules*.

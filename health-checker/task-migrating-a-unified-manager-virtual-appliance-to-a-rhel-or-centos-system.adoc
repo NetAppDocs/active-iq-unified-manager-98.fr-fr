@@ -15,6 +15,7 @@ Vous pouvez restaurer une sauvegarde de vidage de base de données Unified Manag
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Sur l'appliance virtuelle :
@@ -35,12 +36,14 @@ Vous pouvez restaurer une sauvegarde de vidage de base de données Unified Manag
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Ces étapes décrivent comment créer un fichier de sauvegarde sur l'appliance virtuelle, copier les fichiers de sauvegarde sur le système Red Hat Enterprise Linux ou CentOS, puis restaurer la sauvegarde de la base de données sur le nouveau système.
 
 
 
+[[steps]]
 == Étapes
 
 . Sur l'appliance virtuelle, cliquez sur *Management* > *Database Backup*.
@@ -68,6 +71,7 @@ Assurez-vous d'avoir copié le `.7z` fichier de sauvegarde et tous les `.7z` fic
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Vous devez effectuer les tâches suivantes :

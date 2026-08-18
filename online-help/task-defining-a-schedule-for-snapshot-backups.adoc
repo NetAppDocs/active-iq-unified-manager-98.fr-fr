@@ -15,6 +15,7 @@ Vous pouvez configurer la planification à laquelle les sauvegardes Snapshot Uni
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -24,12 +25,14 @@ Vous pouvez configurer la planification à laquelle les sauvegardes Snapshot Uni
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Des sauvegardes Snapshot sont créées en quelques minutes seulement et la base de données Unified Manager est verrouillée pendant quelques secondes seulement.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *sauvegarde de base de données*.
@@ -44,12 +47,14 @@ La valeur par défaut pour le nombre de rétention est 10. Le nombre maximal de 
 
 
 
+[[results]]
 == Résultats
 
 Les fichiers de sauvegarde Snapshot sont créés selon le planning prévu. Vous pouvez voir les fichiers de sauvegarde disponibles dans la page sauvegarde de la base de données.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En raison de l'importance de ce volume et des snapshots, il est possible que vous souhaitiez créer une ou deux alertes pour ce volume. Vous êtes donc averti lorsque :

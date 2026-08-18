@@ -15,6 +15,7 @@ Vous pouvez créer le volume dans lequel les sauvegardes Snapshot seront stocké
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Le cluster, la VM de stockage et le volume doivent satisfaire aux exigences suivantes :
@@ -52,6 +53,7 @@ Utiliser la commande `du -sh /opt/netapp/data/` pour vérifier la taille actuell
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Pour obtenir des instructions détaillées sur la création du volume NFS, reportez-vous à la section https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Software/ONTAP_OS/How_to_configure_NFSv4_in_Cluster-Mode["Comment configurer NFSv4 dans ONTAP 9"] et le http://docs.netapp.com/ontap-9/topic/com.netapp.doc.exp-nfsv3-cg/home.html["Guide de configuration rapide ONTAP 9 NFS"].

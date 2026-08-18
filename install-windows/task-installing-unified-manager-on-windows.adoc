@@ -15,6 +15,7 @@ Vous pouvez installer Unified Manager pour surveiller et résoudre les problème
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Le système sur lequel vous prévoyez d'installer Unified Manager doit répondre aux exigences système et logicielles.
@@ -41,6 +42,7 @@ Les caractères spéciaux suivants sont autorisés : ~ ! @ # $ * - ? . + { }
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous à Windows à l'aide du compte d'administrateur local par défaut.
@@ -66,6 +68,7 @@ Si vous ne modifiez pas le répertoire d'installation, Unified Manager est insta
 
 
 
+[[results]]
 == Résultats
 
 L'installation crée plusieurs répertoires :
@@ -90,6 +93,7 @@ Il s'agit du répertoire dans lequel toutes les données générées par l'appli
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Vous pouvez accéder à l'interface utilisateur Web pour effectuer la configuration initiale de Unified Manager, comme décrit dans la link:../config/concept-configuring-unified-manager.html["Configuration d'Active IQ Unified Manager en cours"].

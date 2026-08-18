@@ -15,6 +15,7 @@ Le déploiement de Unified Manager inclut le téléchargement de logiciels, le d
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez vérifier et remplir la configuration système requise pour le déploiement.
@@ -34,6 +35,7 @@ xref:concept-requirements-for-installing-unified-manager.adoc[Configuration mini
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez déployer Unified Manager en tant qu'appliance virtuelle sur un serveur VMware ESXi.
@@ -47,6 +49,7 @@ Depuis Unified Manager 9.8, VMware Tools a été remplacé par Open VM Tools  `o
 ====
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Une fois le déploiement et la configuration initiale terminée, vous pouvez ajouter des clusters ou configurer des paramètres réseau supplémentaires dans la console de maintenance, puis accéder à l'interface utilisateur Web.

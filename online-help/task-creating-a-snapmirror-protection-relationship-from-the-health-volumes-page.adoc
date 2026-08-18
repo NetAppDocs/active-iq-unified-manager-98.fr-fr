@@ -15,6 +15,7 @@ A partir de la vue Santé : tous les volumes, vous pouvez créer plusieurs relat
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ A partir de la vue Santé : tous les volumes, vous pouvez créer plusieurs relat
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le menu *Protect* ne s'affiche pas dans les cas suivants :
@@ -33,6 +35,7 @@ Le menu *Protect* ne s'affiche pas dans les cas suivants :
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la vue *Health: All volumes*, sélectionnez un volume que vous souhaitez protéger.
@@ -69,6 +72,7 @@ Si vous créez une seule relation de protection, la page Détails du travail s'a
 
 
 
+[[results]]
 == Résultats
 
 En fonction du SVM de destination que vous avez spécifié lors de la configuration ou des options que vous avez activées dans vos paramètres avancés, la relation SnapMirror résultante peut être l'une des variantes suivantes :

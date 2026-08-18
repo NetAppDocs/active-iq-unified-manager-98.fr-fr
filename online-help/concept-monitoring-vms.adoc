@@ -26,6 +26,7 @@ Vous pouvez déterminer le chemin d'E/S et les latences au niveau des composants
 
 
 
+[[viewing-summary-topology]]
 == Affichage de la topologie résumée
 
 Pour déterminer les problèmes de performances, consultez les VM dans une topologie récapitulative
@@ -56,6 +57,7 @@ xref:concept-troubleshooting-workloads-using-the-workload-analyzer.adoc[Dépanna
 
 
 
+[[viewing-expanded-topology]]
 == Affichage de la topologie étendue
 
 Vous pouvez explorer chaque composant séparément en visualisant la topologie étendue de la machine virtuelle.

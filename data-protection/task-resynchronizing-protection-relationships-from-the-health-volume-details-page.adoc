@@ -15,6 +15,7 @@ Vous pouvez resynchroniser les données d'une relation SnapMirror ou SnapVault i
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez resynchroniser les données d'une relation SnapMirror ou SnapVault i
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *protection* de la page de détails *Volume / Santé*, localisez dans la topologie la relation de protection que vous souhaitez resynchroniser et cliquez dessus avec le bouton droit de la souris.

@@ -15,18 +15,21 @@ Une fois que vous avez pris des mesures pour corriger un échec de la tâche de 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous ne pouvez réessayer qu'un seul travail ayant échoué à la fois. La sélection de plusieurs travaux désactive le bouton *Réessayer*. Seules les tâches du type protection Configuration and protection relations Operation peuvent être relancées.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *protection* > *travaux*.

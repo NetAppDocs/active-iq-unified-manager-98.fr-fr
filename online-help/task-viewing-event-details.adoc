@@ -15,18 +15,21 @@ Vous pouvez afficher les détails d'un événement déclenché par Unified Manag
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les détails de l'événement incluent des informations telles que la source de l'événement, la cause de l'événement et toute note liée à l'événement.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Event Management*.

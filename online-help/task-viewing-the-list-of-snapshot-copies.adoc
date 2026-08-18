@@ -15,6 +15,7 @@ Vous pouvez afficher la liste des copies Snapshot d'un volume sélectionné. Vou
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez afficher la liste des copies Snapshot d'un volume sélectionné. Vou
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

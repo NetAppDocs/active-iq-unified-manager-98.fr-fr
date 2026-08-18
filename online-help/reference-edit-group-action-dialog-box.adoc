@@ -35,6 +35,7 @@ Affiche le type d'action de groupe. Vous ne pouvez pas modifier le type d'action
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Enregistrer*

@@ -15,6 +15,7 @@ Vous pouvez télécharger et installer un certificat de sécurité une fois qu'u
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir effectué les actions suivantes :
@@ -28,6 +29,7 @@ Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *certificat HTTPS*.
@@ -38,6 +40,7 @@ Vous devez avoir le rôle Administrateur d'applications.
 
 
 
+[[example-certificate-chain]]
 == Exemple de chaîne de certificat
 
 L'exemple suivant montre comment le fichier de chaîne de certificats peut s'afficher :

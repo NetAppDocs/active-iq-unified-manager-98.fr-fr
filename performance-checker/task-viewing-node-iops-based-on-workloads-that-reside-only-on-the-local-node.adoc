@@ -15,6 +15,7 @@ Le tableau des compteurs d'IOPS du nœud peut indiquer où les opérations ne pa
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les versions « locales » de ces diagrammes de compteur sont similaires aux graphiques des nœuds pour la capacité de performance et l'utilisation, car ils affichent également uniquement les statistiques des données résidant sur des volumes locaux.
@@ -23,6 +24,7 @@ En comparant les versions « locales » de ces diagrammes de compteur aux versio
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la page *Performance/Node Explorer* de votre nœud sélectionné, dans le tableau IOPS, sélectionnez *Total* dans le menu déroulant.

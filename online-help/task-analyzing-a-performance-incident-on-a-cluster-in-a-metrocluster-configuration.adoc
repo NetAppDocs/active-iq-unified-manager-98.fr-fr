@@ -15,6 +15,7 @@ Vous pouvez utiliser Unified Manager pour analyser le cluster dans une configura
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -24,6 +25,7 @@ Vous pouvez utiliser Unified Manager pour analyser le cluster dans une configura
 
 
 
+[[steps]]
 == Étapes
 
 . Affichez la page *Détails de l'événement* pour afficher des informations sur l'événement.

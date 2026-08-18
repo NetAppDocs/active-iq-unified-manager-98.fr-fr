@@ -15,6 +15,7 @@ Le graphique détaillé capacité en performances utilisée - détail indique la
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Outre l'affichage de la capacité de performance totale utilisée pour les nœuds, le graphique décomposition décompose les valeurs de chaque nœud en protocoles utilisateur et en processus d'arrière-plan.
@@ -27,6 +28,7 @@ Ce niveau de détail supplémentaire vous permet de déterminer si un problème 
 
 
 
+[[steps]]
 == Étapes
 
 . Accédez à la page *Performance/Node Failover Planning* du nœud qui servira de nœud de basculement estimé.

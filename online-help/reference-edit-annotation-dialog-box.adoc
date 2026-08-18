@@ -27,6 +27,7 @@ Fournit une description significative de l'annotation. Vous pouvez modifier ce c
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Enregistrer et fermer*

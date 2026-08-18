@@ -15,18 +15,21 @@ Vous pouvez supprimer des pools de ressources lorsqu'ils ne sont plus nécessair
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le bouton *Supprimer* n'est activé que lorsqu'au moins un pool de ressources est sélectionné.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *protection* > *pools de ressources*.

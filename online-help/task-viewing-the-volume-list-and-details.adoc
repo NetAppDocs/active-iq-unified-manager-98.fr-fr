@@ -15,18 +15,21 @@ Depuis la vue Health: All volumes, vous pouvez surveiller votre inventaire des v
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez également utiliser la page des détails Volume / intégrité pour afficher des informations détaillées sur les volumes surveillés, notamment la capacité, l'efficacité, la configuration et la protection des volumes. Vous pouvez également afficher des informations sur les périphériques associés et les alertes associées d'un volume spécifique.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

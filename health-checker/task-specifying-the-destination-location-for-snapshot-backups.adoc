@@ -15,6 +15,7 @@ L'emplacement de destination des sauvegardes Snapshot Unified Manager est config
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez disposer des informations d'identification utilisateur root pour l'hôte Linux sur lequel Unified Manager est installé.
@@ -25,6 +26,7 @@ L'emplacement de destination des sauvegardes Snapshot Unified Manager est config
 
 
 
+[[steps]]
 == Étapes
 
 . À l'aide de Secure Shell, connectez-vous à l'adresse IP ou au nom de domaine complet du système Unified Manager.

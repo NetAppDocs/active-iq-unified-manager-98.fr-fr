@@ -15,6 +15,7 @@ Créez un modèle de rapport personnalisé afin de découvrir les vues et les ra
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Créez un modèle de rapport personnalisé afin de découvrir les vues et les ra
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Procédez comme suit pour :
@@ -35,6 +37,7 @@ Procédez comme suit pour :
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.
@@ -100,6 +103,7 @@ image::../media/pdf-sample-report.gif[modèle de rapport pdf]
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 En fonction des résultats présentés dans ce rapport, vous pouvez utiliser ONTAP System Manager ou l'interface de ligne de commande de ONTAP pour modifier la règle de Tiering en « automatique » ou « toutes » pour certains volumes, afin de décharger des données plus inactives vers le Tier cloud.

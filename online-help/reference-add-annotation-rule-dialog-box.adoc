@@ -35,6 +35,7 @@ Spécifie les conditions qui déterminent les objets de stockage que vous pouvez
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Enregistrer et ajouter*

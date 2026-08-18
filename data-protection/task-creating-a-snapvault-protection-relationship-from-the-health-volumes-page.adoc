@@ -15,6 +15,7 @@ Vous pouvez utiliser la vue Santé : tous les volumes pour créer des relations 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez utiliser la vue Santé : tous les volumes pour créer des relations 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Le menu *Protect* ne s'affiche pas dans les cas suivants :
@@ -33,6 +35,7 @@ Le menu *Protect* ne s'affiche pas dans les cas suivants :
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

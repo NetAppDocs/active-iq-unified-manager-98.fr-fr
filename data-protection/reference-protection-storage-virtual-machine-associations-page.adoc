@@ -15,6 +15,7 @@ La page Storage VM associations permet de consulter les associations SVM existan
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes :
@@ -31,6 +32,7 @@ Permet de supprimer les associations de SVM sélectionnées.
 
 
 
+[[svm-associations-list]]
 == Liste des associations SVM
 
 La liste Storage Virtual machine associations (Storage Virtual machine associations) affiche dans une table les associations SVM source et destination qui ont été créées et le type de relation de protection autorisé pour chaque association.

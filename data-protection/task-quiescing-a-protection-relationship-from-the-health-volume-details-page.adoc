@@ -15,6 +15,7 @@ Vous pouvez suspendre une relation de protection pour empêcher temporairement l
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
@@ -23,6 +24,7 @@ Vous pouvez suspendre une relation de protection pour empêcher temporairement l
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 L'action de mise en veille ne s'affiche pas dans les cas suivants :
@@ -34,6 +36,7 @@ L'action de mise en veille ne s'affiche pas dans les cas suivants :
 
 
 
+[[steps]]
 == Étapes
 
 . Dans l'onglet *protection* de la page de détails *Volume / Santé*, cliquez avec le bouton droit de la souris sur la relation dans la vue topologique pour la relation de protection que vous souhaitez mettre en veille.

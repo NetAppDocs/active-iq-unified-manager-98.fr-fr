@@ -17,6 +17,7 @@ L'état situé à côté du nom du cluster, par exemple (Good), représente l'é
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande permettent d'effectuer les tâches suivantes pour le cluster sélectionné :
@@ -46,6 +47,7 @@ Permet de naviguer vers la vue Santé : tous les clusters.
 
 
 
+[[health-tab]]
 == Onglet Santé
 
 Affiche des informations détaillées sur les problèmes de disponibilité et de capacité des données liés aux différents objets du cluster tels que les nœuds, les SVM et les agrégats. Les problèmes de disponibilité sont liés à la fonctionnalité de service des données des objets de cluster. Les problèmes de capacité sont liés à la capacité de stockage des données des objets du cluster.
@@ -70,6 +72,7 @@ Affiche sous forme graphique le nombre total d'objets, y compris les objets qui 
 
 
 
+[[capacity-tab]]
 == Onglet capacité
 
 Affiche des informations détaillées sur la capacité du cluster sélectionné.
@@ -209,6 +212,7 @@ Affiche le nombre estimé de jours restants avant que l'agrégat n'atteigne sa c
 
 
 
+[[configuration-tab]]
 == Onglet Configuration
 
 Affiche des détails sur le cluster sélectionné, tels que l'adresse IP, le numéro de série, le contact et l'emplacement :
@@ -366,6 +370,7 @@ Le répertorie les noms des niveaux de Cloud auxquels ce cluster est connecté. 
 
 
 
+[[metrocluster-connectivity-tab]]
 == Onglet MetroCluster Connectivity
 
 Affiche les problèmes et l'état de connectivité des composants du cluster dans la configuration MetroCluster. Un cluster s'affiche dans une zone rouge lorsque le partenaire de reprise sur incident du cluster a des problèmes.
@@ -390,6 +395,7 @@ Si l'état du problème de connectivité entre les composants est déterminé pa
 
 
 
+[[metrocluster-replication-tab]]
 == Onglet réplication MetroCluster
 
 Affiche l'état des données en cours de réplication. Vous pouvez utiliser l'onglet MetroCluster Replication pour assurer la protection des données en réalisant une mise en miroir synchrone des données avec les clusters déjà peering. Un cluster s'affiche dans une zone rouge lorsque le partenaire de reprise sur incident du cluster a des problèmes.
@@ -405,6 +411,7 @@ Dans l'onglet MetroCluster Replication, le cluster local fournit la représentat
 
 
 
+[[network-interfaces-tab]]
 == Onglet interfaces réseau
 
 Affiche des détails sur toutes les LIFs autres que les données créées sur le cluster sélectionné.
@@ -456,6 +463,7 @@ Affiche le nom du groupe de basculement.
 
 
 
+[[nodes-tab]]
 == Onglet nœuds
 
 Affiche des informations sur les nœuds du cluster sélectionné. Vous pouvez afficher des informations détaillées sur les paires haute disponibilité, les tiroirs disques et les ports :
@@ -587,6 +595,7 @@ Vous pouvez afficher les événements liés au port dans la liste Evénements. V
 
 
 
+[[disks-tab]]
 == Onglet disques
 
 Affiche des détails sur les disques du cluster sélectionné. Vous pouvez afficher les informations relatives aux disques, telles que le nombre de disques utilisés, les disques de rechange, les disques défectueux et les disques non affectés. Vous pouvez également afficher d'autres détails, tels que le nom du disque, le type de disque et le nœud propriétaire du disque.
@@ -690,12 +699,14 @@ Affiche l'ID de la baie où se trouve le disque.
 
 
 
+[[related-annotations-pane]]
 == Volet Annotations associées
 
 Vous permet d'afficher les détails d'annotation associés au cluster sélectionné. Les détails comprennent le nom de l'annotation et les valeurs d'annotation qui sont appliquées au cluster. Vous pouvez également supprimer des annotations manuelles du volet Annotations associées.
 
 
 
+[[related-devices-pane]]
 == Panneau périphériques associés
 
 Vous permet d'afficher les détails des périphériques associés au cluster sélectionné.
@@ -726,12 +737,14 @@ Affiche le nombre, la capacité et l'état de santé des agrégats appartenant a
 
 
 
+[[related-groups-pane]]
 == Volet groupes associés
 
 Vous permet d'afficher la liste des groupes incluant le cluster sélectionné.
 
 
 
+[[related-alerts-pane]]
 == Volet alertes associées
 
 Le volet alertes associées vous permet d'afficher la liste des alertes du cluster sélectionné. Vous pouvez également ajouter une alerte en cliquant sur le lien Ajouter une alerte ou en modifiant une alerte existante en cliquant sur le nom de l'alerte.

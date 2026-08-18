@@ -15,12 +15,14 @@ Vous pouvez afficher les groupes de règles de QoS appliqués à vos volumes et 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les étapes pour afficher la politique de QoS appliquée à un volume sont indiquées ci-dessous. Les étapes permettant d'afficher ces informations concernant une LUN sont similaires.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

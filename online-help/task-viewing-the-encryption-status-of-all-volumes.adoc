@@ -15,12 +15,14 @@ Vous pouvez afficher la liste de tous les volumes, ainsi que leur état de crypt
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les types de chiffrement pouvant être appliqués à un volume sont les suivants :
@@ -33,6 +35,7 @@ Les types de chiffrement pouvant être appliqués à un volume sont les suivants
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage* > *volumes*.

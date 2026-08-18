@@ -15,6 +15,7 @@ Les événements du pont MetroCluster fournissent des informations sur l'état d
 
 
 
+[[impact-area-availability]]
 == Domaine d'impact : disponibilité
 
 |===

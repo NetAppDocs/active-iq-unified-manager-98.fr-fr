@@ -15,6 +15,7 @@ La page informations sur les performances/LUN permet d'afficher la liste des att
 
 
 
+[[lun-attributes]]
 == Attributs des LUN
 
 * *WWN*

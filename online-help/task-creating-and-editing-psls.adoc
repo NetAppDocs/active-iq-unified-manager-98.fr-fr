@@ -15,6 +15,7 @@ Lorsque les niveaux de services de performances définis par le système ne corr
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle Administrateur d'applications.
@@ -26,6 +27,7 @@ Lorsque les niveaux de services de performances définis par le système ne corr
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous créez et modifiez des niveaux de service de performances personnalisés à partir de la page niveaux de service de performances en définissant les objectifs de niveau de service dont vous avez besoin pour les applications qui accèdent au stockage.
@@ -37,6 +39,7 @@ Vous ne pouvez pas modifier un niveau de service de performances s'il est actuel
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche sous *Paramètres*, sélectionnez *stratégies* > *niveaux de service de performance*.
@@ -67,6 +70,7 @@ La page permettant d'ajouter ou de modifier un niveau de service de performance 
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Vous pouvez appliquer le nouveau niveau de service de performances ou modifié aux charges de travail (LUN, partages de fichiers NFS et partages CIFS) à partir de la page des charges de travail ou lors du provisionnement d'un nouveau workload.

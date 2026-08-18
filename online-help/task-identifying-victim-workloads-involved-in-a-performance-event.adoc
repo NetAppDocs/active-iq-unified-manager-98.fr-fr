@@ -15,6 +15,7 @@ Unified Manager vous permet d'identifier les charges de travail de volume qui pr
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir le rôle opérateur, administrateur d'applications ou administrateur de stockage.
@@ -23,12 +24,14 @@ Unified Manager vous permet d'identifier les charges de travail de volume qui pr
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 La page Détails de l'événement affiche une liste des charges de travail définies par l'utilisateur et par le système, classées par la déviation la plus élevée de l'activité ou de l'utilisation sur le composant ou le plus touché par l'événement. Les valeurs sont basées sur les pics identifiés par Unified Manager lors de sa détection et de la dernière analyse de l'événement.
 
 
 
+[[steps]]
 == Étapes
 
 . Affichez la page *Détails de l'événement* pour afficher des informations sur l'événement.

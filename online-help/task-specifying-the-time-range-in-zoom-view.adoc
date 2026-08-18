@@ -15,6 +15,7 @@ La commande *Plage de temps* de la fenêtre Affichage du zoom des diagrammes de 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous pouvez sélectionner une plage horaire comprise entre une heure et 390 jours. 13 mois équivaut à 390 jours car chaque mois est compté comme 30 jours. La spécification d'une plage de dates et d'heures fournit plus de détails et vous permet d'effectuer un zoom avant sur des événements de performance ou une série d'événements spécifiques. La spécification d'une plage horaire facilite également le dépannage des problèmes de performances potentiels, car la spécification d'une plage de dates et d'heures permet d'afficher plus précisément les données entourant l'événement de performance. Utilisez la commande *Plage horaire* pour sélectionner des plages de date et d'heure prédéfinies, ou pour spécifier votre propre période et une plage de dates personnalisées pouvant aller jusqu'à 390 jours. Les boutons des plages de temps prédéfinies varient de la *dernière heure* à la *derniers 13 mois*.

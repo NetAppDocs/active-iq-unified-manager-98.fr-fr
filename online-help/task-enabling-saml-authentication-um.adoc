@@ -15,6 +15,7 @@ Vous pouvez activer l'authentification SAML (Security assertion Markup Language)
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Vous devez avoir configuré l'authentification à distance et vérifié qu'elle a réussi.
@@ -26,6 +27,7 @@ Vous pouvez activer l'authentification SAML (Security assertion Markup Language)
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Une fois l'authentification SAML activée à partir d'Unified Manager, les utilisateurs ne peuvent pas accéder à l'interface utilisateur graphique tant que le IDP n'a pas été configuré avec les informations d'hôte du serveur Unified Manager. Vous devez donc être prêt à effectuer les deux parties de la connexion avant de lancer le processus de configuration. Le IDP peut être configuré avant ou après la configuration de Unified Manager.
@@ -39,6 +41,7 @@ Unified Manager est redémarré automatiquement après la configuration SAML de 
 ====
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *général* > *authentification SAML*.
@@ -63,12 +66,14 @@ Un message s'affiche pour confirmer que vous souhaitez terminer la configuration
 
 
 
+[[results]]
 == Résultats
 
 Lors de la prochaine tentative d'accès à l'interface graphique Unified Manager, les utilisateurs distants autorisés saisissent leurs identifiants sur la page de connexion du fournisseur intégré au lieu de la page de connexion de Unified Manager.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Si ce n'est pas déjà fait, accédez à votre IDP et entrez l'URI du serveur Unified Manager et les métadonnées pour terminer la configuration.

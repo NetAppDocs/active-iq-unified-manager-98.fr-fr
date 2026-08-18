@@ -15,12 +15,14 @@ Vous pouvez restaurer des fichiers, des répertoires ou un volume entier à part
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Vous ne pouvez pas restaurer les flux de fichiers NTFS.
@@ -33,6 +35,7 @@ L'option de restauration n'est pas disponible lorsque :
 
 
 
+[[steps]]
 == Étapes
 
 . Dans la vue *Health: All volumes*, sélectionnez un volume à partir duquel vous souhaitez restaurer les données.

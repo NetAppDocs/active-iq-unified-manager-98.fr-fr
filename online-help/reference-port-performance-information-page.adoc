@@ -15,6 +15,7 @@ Utilisez la page informations sur les performances/ports pour afficher la liste 
 
 
 
+[[port-attributes]]
 == Attributs de port
 
 * *WWN*

@@ -15,6 +15,7 @@ Après avoir téléchargé le fichier d'installation, vous déployez Unified Man
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Il est recommandé de passer en revue la configuration système requise. Apportez les modifications nécessaires avant de déployer l'appliance virtuelle Unified Manager.
@@ -46,6 +47,7 @@ Avant de déployer l'appliance virtuelle, procurez-vous les informations suivant
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Depuis Unified Manager 9.8, VMware Tools a été remplacé par Open VM Tools  `open-vm-tools`). Vous n'avez pas besoin d'installer VMware Tools dans le cadre du processus d'installation car `open-vm-tools` Est inclus dans le pack d'installation de Unified Manager.
@@ -56,6 +58,7 @@ VMware High Availability pour l'appliance virtuelle Unified Manager est pris en 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans vSphere client, cliquez sur *fichier* > *déployer le modèle OVF*.
@@ -122,6 +125,7 @@ La console de VM affiche l'URL de l'interface utilisateur Web Unified Manager.
 
 
 
+[[after-you-finish]]
 == Une fois que vous avez terminé
 
 Vous pouvez accéder à l'interface utilisateur Web pour effectuer la configuration initiale d'Unified Manager, comme décrit dans la section _Configuration de Active IQ Unified Manager_.

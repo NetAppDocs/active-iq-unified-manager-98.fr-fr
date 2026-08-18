@@ -15,6 +15,7 @@ Utilisez la page d'informations sur les performances/l'espace de noms NVMe pour 
 
 
 
+[[nvme-namespace-attributes]]
 == Attributs de l'espace de noms NVMe
 
 * *Cluster*

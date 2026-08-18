@@ -15,18 +15,21 @@ Unified Manager permet également de créer des règles d'annotations dynamiques
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir le rôle Administrateur d'applications ou Administrateur de stockage.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Les objets de stockage actuellement surveillés sont annotés dès la création de la règle d'annotation. Les nouveaux objets ne sont annotés qu'une fois le cycle de surveillance terminé.
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Annotations*.
@@ -66,6 +69,7 @@ Un groupe de conditions
 
 
 
+[[example-of-creating-an-annotation-rule]]
 == Exemple de création d'une règle d'annotation
 
 Procédez comme suit dans la boîte de dialogue Ajouter une règle d'annotation pour créer une règle d'annotation, notamment configurer une condition et ajouter un groupe de conditions :

@@ -261,6 +261,7 @@ Vous pouvez voir que la méthode POST de `/storage-provider/luns` Appelle en int
 
 
 
+[[troubleshooting-steps-for-failure-in-lun-creation-or-mapping]]
 == Procédure de dépannage en cas de échec de la création ou du mappage de LUN
 
 À l'issue de ce workflow, il se peut que la création de LUN ait échoué. Même si la LUN est correctement créée, le mappage de LUN avec le groupe initiateur peut échouer en raison d'une indisponibilité d'une LIF SAN ou d'un point de terminaison d'accès sur le nœud sur lequel vous créez la LUN. En cas de défaillance, le message suivant s'affiche :

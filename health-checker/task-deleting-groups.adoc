@@ -15,6 +15,7 @@ Vous pouvez supprimer un groupe depuis Unified Manager lorsque ce dernier n'est 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * Aucun des objets de stockage (clusters, SVM ou volumes) ne doit être associé à toute règle de groupe associée au groupe que vous souhaitez supprimer.
@@ -23,6 +24,7 @@ Vous pouvez supprimer un groupe depuis Unified Manager lorsque ce dernier n'est 
 
 
 
+[[steps]]
 == Étapes
 
 . Dans le volet de navigation de gauche, cliquez sur *Storage Management* > *Groups*.

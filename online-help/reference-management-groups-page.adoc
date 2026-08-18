@@ -17,12 +17,14 @@ La page groupes comprend des onglets permettant d'ajouter, de supprimer ou de mo
 
 
 
+[[groups-tab]]
 == Onglet groupes
 
 L'onglet groupes affiche le nom et la description des groupes que vous avez créés. Vous pouvez effectuer des tâches telles que l'ajout, la modification ou la suppression d'un groupe. L'onglet affiche également le nombre d'actions de groupe et de règles de groupe associées à un groupe, le nombre de clusters, de SVM et de volumes du groupe.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Ajouter*
@@ -44,6 +46,7 @@ Supprime le groupe sélectionné.
 
 
 
+[[list-view]]
 == Vue liste
 
 La vue liste affiche, au format tabulaire, les groupes que vous avez créés dans Unified Manager. Vous pouvez utiliser les filtres de colonne pour personnaliser les données affichées. Par défaut, la liste est triée par nom de groupe.
@@ -80,12 +83,14 @@ Affiche le nombre de volumes inclus dans le groupe.
 
 
 
+[[group-rules-tab]]
 == Règles de groupe
 
 L'onglet règles de groupe affiche les règles de groupe que vous avez créées pour que les groupes contiennent des objets de stockage. Vous pouvez effectuer des tâches telles que l'ajout, la modification ou la suppression d'une règle de groupe. L'onglet affiche également le nom du groupe pour lequel la règle de groupe est créée et l'objet de stockage pour lequel la règle est appliquée. Vous pouvez également afficher le nombre d'objets de stockage correspondant à la règle de groupe.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Ajouter*
@@ -104,6 +109,7 @@ Supprime la règle de groupe sélectionnée.
 
 
 
+[[list-view]]
 == Vue liste
 
 La vue liste affiche, au format tabulaire, les règles de groupe que vous avez créées pour un objet de stockage spécifique (clusters, volumes ou SVM) et le nombre d'objets de stockage qui satisfont à la règle de groupe définie.
@@ -128,12 +134,14 @@ Affiche le nombre d'objets de stockage inclus dans le groupe en fonction de la r
 
 
 
+[[group-actions-tab]]
 == Onglet actions de groupe
 
 L'onglet actions de groupe affiche le nom et le type des actions de groupe que vous définissez pour les groupes. Vous pouvez effectuer des tâches telles que l'ajout, la modification, la suppression ou la réorganisation des actions de groupe. L'onglet affiche également le nom du groupe sur lequel l'action de groupe est appliquée.
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 * *Ajouter*
@@ -156,6 +164,7 @@ Affiche la boîte de dialogue Réordonner les actions de groupe pour réorganise
 
 
 
+[[list-view]]
 == Vue liste
 
 La vue liste affiche, au format tabulaire, les actions de groupe que vous avez créées pour les groupes du serveur Unified Manager. Vous pouvez utiliser les filtres de colonne pour personnaliser les données affichées.

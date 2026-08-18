@@ -59,24 +59,27 @@ Unified Manager peut être installé sur des systèmes disposant d'une petite qu
 
 De plus, le nombre de nœuds qu'une seule instance de Unified Manager peut contrôler avant d'installer une deuxième instance de Unified Manager est limité. Pour plus d'informations, consultez le _Guide des meilleures pratiques_.
 
-https://www.netapp.com/pdf.html?item=/media/13504-tr4621pdf.pdf["Rapport technique 4621 : Guide des meilleures pratiques de Unified Manager"^]
+https://www.netapp.com/pdf.html?item=/media/13504-tr4621.pdf["Rapport technique 4621 : Guide des meilleures pratiques de Unified Manager"^]
 
 Les échanges de pages mémoire ont un impact négatif sur les performances du système et de l'application de gestion. La concurrence pour les ressources de processeur indisponibles en raison de l'utilisation globale de l'hôte peut dégrader les performances.
 
 
 
+[[requirement-for-dedicated-use]]
 == Exigence pour une utilisation dédiée
 
 Le système physique ou virtuel sur lequel vous installez Unified Manager doit être utilisé exclusivement pour Unified Manager et ne doit pas être partagé avec d'autres applications. D'autres applications peuvent consommer des ressources système et réduire considérablement les performances de Unified Manager.
 
 
 
+[[space-requirements-for-backups]]
 == Besoins en espace pour les sauvegardes
 
 Si vous prévoyez d'utiliser la fonctionnalité de sauvegarde et de restauration de Unified Manager, allouez de la capacité supplémentaire de sorte que le disque ou le répertoire `data' dispose de 150 Go d'espace. Une sauvegarde peut être écrite sur une destination locale ou sur une destination distante. La meilleure pratique consiste à identifier un emplacement distant externe au système hôte Unified Manager qui dispose d'un espace minimum de 150 Go.
 
 
 
+[[requirements-for-host-connectivity]]
 == Conditions requises pour la connectivité hôte
 
 Le système physique ou virtuel sur lequel vous installez Unified Manager doit être configuré de telle manière `ping` nom d'hôte de l'hôte lui-même. Dans le cas d'une configuration IPv6, vérifiez-la `ping6` Le nom d'hôte a réussi pour s'assurer que l'installation d'Unified Manager a réussi.

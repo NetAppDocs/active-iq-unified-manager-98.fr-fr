@@ -15,6 +15,7 @@ Vous pouvez créer des volumes de partage de fichiers qui prennent en charge les
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 * La VM de stockage doit disposer d'espace pour le provisionnement du volume de partage de fichiers.
@@ -24,6 +25,7 @@ Vous pouvez créer des volumes de partage de fichiers qui prennent en charge les
 
 
 
+[[steps]]
 == Étapes
 
 . Sur la page *Provision Workload*, ajoutez le nom de la charge de travail à créer, puis sélectionnez le cluster dans la liste disponible.

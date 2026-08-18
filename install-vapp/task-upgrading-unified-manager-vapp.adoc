@@ -15,6 +15,7 @@ La mise à niveau vers Unified Manager 9.8 n'est possible qu'avec des instances 
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Unified Manager n'est pas disponible lors du processus de mise à niveau. Pour effectuer toute opération en cours d'exécution, vous devez effectuer la mise à niveau de Unified Manager.

@@ -15,6 +15,7 @@ Le `events` et `system` API sous `management-server` La catégorie vous permet d
 
 
 
+[[viewing-events]]
 == Affichage des événements
 
 À l'aide du `/management-server/events` API, vous pouvez interroger les événements de votre datacenter, y compris les données historiques. Utilisez les filtres intégrés, tels que le nom, le niveau d'impact, la zone d'impact, la gravité, état, nom de la ressource et type de ressource pour afficher des événements spécifiques. Les paramètres de type de ressource et de zone renvoient des informations sur l'objet de stockage sur lequel l'événement s'est produit, et la zone d'impact renvoie les informations sur le problème pour lequel l'événement est soulevé, telles que la disponibilité, la capacité, la configuration, la sécurité, protection et performances.
@@ -48,6 +49,7 @@ Exécutez cette API si vous souhaitez interroger un événement particulier. Sai
 |===
 
 
+[[viewing-system-details]]
 == Affichage des détails du système
 
 À l'aide du `/management-server/system` API, vous pouvez interroger les informations spécifiques aux instances de votre environnement Unified Manager. L'API renvoie des informations sur le produit et les services, telles que la version de Unified Manager installée sur votre système, votre UUID, le nom du fournisseur, le système d'exploitation hôte et le nom, Description et état des services exécutés sur l'instance Unified Manager.

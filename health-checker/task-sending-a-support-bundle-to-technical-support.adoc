@@ -15,6 +15,7 @@ Pour obtenir des informations plus détaillées sur le diagnostic et le dépanna
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez accéder au pack pour l'envoyer au support technique.
@@ -23,6 +24,7 @@ Vous devez obtenir un numéro de dossier généré par le biais du site Web de s
 
 
 
+[[steps]]
 == Étapes
 
 . Connectez-vous au site de support NetApp.

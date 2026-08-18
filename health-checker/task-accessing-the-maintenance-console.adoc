@@ -15,12 +15,14 @@ Si l'interface utilisateur Unified Manager n'est pas en cours de fonctionnement 
 
 
 
+[[before-you-begin]]
 == Avant de commencer
 
 Vous devez avoir installé et configuré Unified Manager.
 
 
 
+[[about-this-task]]
 == Description de la tâche
 
 Après 15 minutes d'inactivité, la console de maintenance vous déconnecte.
@@ -32,6 +34,7 @@ Lorsqu'il est installé sur VMware, si vous vous êtes déjà connecté en tant 
 ====
 
 
+[[steps]]
 == Étapes
 
 . La procédure suivante permet d'accéder à la console de maintenance :

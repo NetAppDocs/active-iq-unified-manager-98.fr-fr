@@ -27,6 +27,7 @@ Fournit une description significative du groupe. Vous pouvez modifier ce champ l
 
 
 
+[[command-buttons]]
 == Boutons de commande
 
 Les boutons de commande vous permettent d'enregistrer ou d'annuler les modifications apportées au groupe.
